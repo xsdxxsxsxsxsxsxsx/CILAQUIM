@@ -1,0 +1,1139 @@
+
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+		<meta charset="UTF-8" />
+	<!-- wp_head -->
+	<title>CILAQUIM</title>
+<meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='dns-prefetch' href='//i0.wp.com' />
+<link rel='dns-prefetch' href='//i1.wp.com' />
+<link rel='dns-prefetch' href='//i2.wp.com' />
+<link rel='dns-prefetch' href='//c0.wp.com' />
+<link rel="alternate" type="application/rss+xml" title="CILAQUIM &raquo; Feed" href="https://cilaquim.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="CILAQUIM &raquo; Feed de los comentarios" href="https://cilaquim.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="CILAQUIM &raquo; Comentario  del feed" href="https://cilaquim.com/sample-page/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/cilaquim.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.8.2"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style>
+	.themify_builder .wow { visibility: hidden; }
+	div:not(.caroufredsel_wrapper) > .themify_builder_slider > li:not(:first-child), .mfp-hide { display: none; }
+a.themify_lightbox, .module-gallery a, .gallery-icon, .themify_lightboxed_images .post a[href$="jpg"], .themify_lightboxed_images .post a[href$="gif"], .themify_lightboxed_images .post a[href$="png"], .themify_lightboxed_images .post a[href$="JPG"], .themify_lightboxed_images .post a[href$="GIF"], .themify_lightboxed_images .post a[href$="PNG"], .themify_lightboxed_images .post a[href$="jpeg"], .themify_lightboxed_images .post a[href$="JPEG"] { cursor:not-allowed; }
+	.themify_lightbox_loaded a.themify_lightbox, .themify_lightbox_loaded .module-gallery a, .themify_lightbox_loaded .gallery-icon { cursor:pointer; }
+	</style><style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='dashicons-css'  href='https://c0.wp.com/c/5.8.2/wp-includes/css/dashicons.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='admin-bar-css'  href='https://c0.wp.com/c/5.8.2/wp-includes/css/admin-bar.min.css' type='text/css' media='all' />
+<style id='admin-bar-inline-css' type='text/css'>
+#wp-admin-bar-jetpack-scan-notice svg { float:left; margin-top: 4px; margin-right: 6px; width: 18px; height: 22px; }#wp-admin-bar-jetpack-scan-notice .is-hidden { display:none; } @media screen and (max-width: 959px ) { #wpadminbar #wp-admin-bar-jetpack-scan-notice { width:32px; } #wpadminbar #wp-admin-bar-jetpack-scan-notice a { color: transparent!important; } }
+</style>
+<link rel='stylesheet' id='themify-common-css'  href='https://cilaquim.com/wp-content/themes/themify-ultra/themify/css/themify.common.min.css?ver=4.9.1' type='text/css' media='all' />
+<meta name="themify-framework-css" data-href="https://cilaquim.com/wp-content/themes/themify-ultra/themify/css/themify.framework.min.css?ver=4.9.1" content="themify-framework-css" id="themify-framework-css" /><meta name="builder-styles-css" data-href="https://cilaquim.com/wp-content/themes/themify-ultra/themify/themify-builder/css/themify-builder-style.min.css?ver=4.9.1" content="builder-styles-css" id="builder-styles-css" />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://c0.wp.com/c/5.8.2/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
+<style id='wp-block-library-inline-css' type='text/css'>
+.has-text-align-justify{text-align:justify;}
+</style>
+<style id='ce4wp-subscribe-style-inline-css' type='text/css'>
+.wp-block-ce4wp-subscribe{max-width:840px;margin:0 auto}.wp-block-ce4wp-subscribe .title{margin-bottom:0}.wp-block-ce4wp-subscribe .subTitle{margin-top:0;font-size:0.8em}.wp-block-ce4wp-subscribe .disclaimer{margin-top:5px;font-size:0.8em}.wp-block-ce4wp-subscribe .disclaimer .disclaimer-label{margin-left:10px}.wp-block-ce4wp-subscribe .inputBlock{width:100%;margin-bottom:10px}.wp-block-ce4wp-subscribe .inputBlock input{width:100%}.wp-block-ce4wp-subscribe .inputBlock label{display:inline-block}.wp-block-ce4wp-subscribe .submit-button{margin-top:25px;display:block}.wp-block-ce4wp-subscribe .required-text{display:inline-block;margin:0;padding:0;margin-left:0.3em}.wp-block-ce4wp-subscribe .onSubmission{height:0;max-width:840px;margin:0 auto}.wp-block-ce4wp-subscribe .firstNameSummary .lastNameSummary{text-transform:capitalize}.wp-block-ce4wp-subscribe .ce4wp-inline-notification{display:flex;flex-direction:row;align-items:center;padding:13px 10px;width:100%;height:40px;border-style:solid;border-color:orange;border-width:1px;border-left-width:4px;border-radius:3px;background:rgba(255,133,15,0.1);flex:none;order:0;flex-grow:1;margin:0px 0px}.wp-block-ce4wp-subscribe .ce4wp-inline-warning-text{font-style:normal;font-weight:normal;font-size:16px;line-height:20px;display:flex;align-items:center;color:#571600;margin-left:9px}.wp-block-ce4wp-subscribe .ce4wp-inline-warning-icon{color:orange}.wp-block-ce4wp-subscribe .ce4wp-inline-warning-arrow{color:#571600;margin-left:auto}.wp-block-ce4wp-subscribe .ce4wp-banner-clickable{cursor:pointer}.ce4wp-link{cursor:pointer}
+
+.no-flex{display:block}.sub-header{margin-bottom:1em}
+
+
+</style>
+<link rel='stylesheet' id='mediaelement-css'  href='https://c0.wp.com/c/5.8.2/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-mediaelement-css'  href='https://c0.wp.com/c/5.8.2/wp-includes/js/mediaelement/wp-mediaelement.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wc-block-vendors-style-css'  href='https://c0.wp.com/p/woocommerce/5.1.0/packages/woocommerce-blocks/build/vendors-style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wc-block-style-css'  href='https://c0.wp.com/p/woocommerce/5.1.0/packages/woocommerce-blocks/build/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-layout-css'  href='https://c0.wp.com/p/woocommerce/5.1.0/assets/css/woocommerce-layout.css' type='text/css' media='all' />
+<style id='woocommerce-layout-inline-css' type='text/css'>
+
+	.infinite-scroll .woocommerce-pagination {
+		display: none;
+	}
+</style>
+<link rel='stylesheet' id='woocommerce-smallscreen-css'  href='https://c0.wp.com/p/woocommerce/5.1.0/assets/css/woocommerce-smallscreen.css' type='text/css' media='only screen and (max-width: 768px)' />
+<link rel='stylesheet' id='woocommerce-general-css'  href='https://c0.wp.com/p/woocommerce/5.1.0/assets/css/woocommerce.css' type='text/css' media='all' />
+<style id='woocommerce-inline-inline-css' type='text/css'>
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<link rel='stylesheet' id='wpforms-full-css'  href='https://cilaquim.com/wp-content/plugins/wpforms-lite/assets/css/wpforms-full.min.css?ver=1.7.1.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wpforms-admin-bar-css'  href='https://cilaquim.com/wp-content/plugins/wpforms-lite/assets/css/admin-bar.min.css?ver=1.7.1.2' type='text/css' media='all' />
+<style id='wpforms-admin-bar-inline-css' type='text/css'>
+#wpadminbar .wpforms-menu-notification-counter, #wpadminbar .wpforms-menu-notification-indicator { 
+						background-color: #d63638 !important;
+						color: #ffffff !important; 
+					}
+</style>
+<link rel='stylesheet' id='theme-style-css'  href='https://cilaquim.com/wp-content/themes/themify-ultra/style.min.css?ver=2.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='themify-media-queries-css'  href='https://cilaquim.com/wp-content/themes/themify-ultra/media-queries.min.css?ver=2.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='themify-woocommerce-css'  href='https://cilaquim.com/wp-content/themes/themify-ultra/styles/woocommerce.min.css?ver=2.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='ultra-header-css'  href='https://cilaquim.com/wp-content/themes/themify-ultra/styles/header-horizontal.min.css?ver=2.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='ultra-color-css'  href='https://cilaquim.com/wp-content/themes/themify-ultra/styles/theme-color-lime.min.css?ver=2.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='themify-builder-2-generated-fonts-css'  href='https://fonts.googleapis.com/css?family=Quattrocento:400&#038;subset=latin' type='text/css' media='all' />
+<link rel='stylesheet' id='themify-builder-2-generated-css'  href='https://cilaquim.com/wp-content/uploads/themify-css/themify-builder-2-generated.css?ver=1638326388' type='text/css' media='all' />
+<link rel='stylesheet' id='themify-customize-css'  href='https://cilaquim.com/wp-content/uploads/themify-customizer.css?ver=21.11.30.19.15.47' type='text/css' media='all' />
+<link rel='stylesheet' id='themify-google-fonts-css'  href='https://fonts.googleapis.com/css?family=Open+Sans:400italic,600italic,700italic,400,300,600,700&#038;subset=latin' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='https://c0.wp.com/p/jetpack/10.3/css/jetpack.css' type='text/css' media='all' />
+<link rel="stylesheet" type="text/css" href="https://cilaquim.com/wp-content/plugins/smart-slider-3/Public/SmartSlider3/Application/Frontend/Assets/dist/smartslider.min.css?ver=f4759c2e" media="all">
+<style data-related="n2-ss-2">div#n2-ss-2 .n2-ss-slider-1{display:grid;position:relative;}div#n2-ss-2 .n2-ss-slider-2{display:grid;position:relative;overflow:hidden;padding:0px 0px 0px 0px;border:0px solid RGBA(62,62,62,1);border-radius:0px;background-clip:padding-box;background-repeat:repeat;background-position:50% 50%;background-size:cover;background-attachment:scroll;z-index:1;}div#n2-ss-2:not(.n2-ss-loaded) .n2-ss-slider-2{background-image:none !important;}div#n2-ss-2 .n2-ss-slider-3{display:grid;grid-template-areas:'cover';position:relative;overflow:hidden;z-index:10;}div#n2-ss-2 .n2-ss-slider-3 > *{grid-area:cover;}div#n2-ss-2 .n2-ss-slide-backgrounds,div#n2-ss-2 .n2-ss-slider-3 > .n2-ss-divider{position:relative;}div#n2-ss-2 .n2-ss-slide-backgrounds{z-index:10;}div#n2-ss-2 .n2-ss-slide-backgrounds > *{overflow:hidden;}div#n2-ss-2 .n2-ss-slide-background{transform:translateX(-100000px);}div#n2-ss-2 .n2-ss-slider-4{place-self:center;position:relative;width:100%;height:100%;z-index:20;display:grid;grid-template-areas:'slide';}div#n2-ss-2 .n2-ss-slider-4 > *{grid-area:slide;}div#n2-ss-2.n2-ss-full-page--constrain-ratio .n2-ss-slider-4{height:auto;}div#n2-ss-2 .n2-ss-slide{display:grid;place-items:center;grid-auto-columns:100%;position:relative;z-index:20;-webkit-backface-visibility:hidden;transform:translateX(-100000px);}div#n2-ss-2 .n2-ss-slide{perspective:1500px;}div#n2-ss-2 .n2-ss-slide-active{z-index:21;}.n2-ss-background-animation{position:absolute;top:0;left:0;width:100%;height:100%;z-index:3;}div#n2-ss-2 .nextend-arrow{cursor:pointer;overflow:hidden;line-height:0 !important;z-index:18;-webkit-user-select:none;}div#n2-ss-2 .nextend-arrow img{position:relative;display:block;}div#n2-ss-2 .nextend-arrow img.n2-arrow-hover-img{display:none;}div#n2-ss-2 .nextend-arrow:FOCUS img.n2-arrow-hover-img,div#n2-ss-2 .nextend-arrow:HOVER img.n2-arrow-hover-img{display:inline;}div#n2-ss-2 .nextend-arrow:FOCUS img.n2-arrow-normal-img,div#n2-ss-2 .nextend-arrow:HOVER img.n2-arrow-normal-img{display:none;}div#n2-ss-2 .nextend-arrow-animated{overflow:hidden;}div#n2-ss-2 .nextend-arrow-animated > div{position:relative;}div#n2-ss-2 .nextend-arrow-animated .n2-active{position:absolute;}div#n2-ss-2 .nextend-arrow-animated-fade{transition:background 0.3s, opacity 0.4s;}div#n2-ss-2 .nextend-arrow-animated-horizontal > div{transition:all 0.4s;transform:none;}div#n2-ss-2 .nextend-arrow-animated-horizontal .n2-active{top:0;}div#n2-ss-2 .nextend-arrow-previous.nextend-arrow-animated-horizontal .n2-active{left:100%;}div#n2-ss-2 .nextend-arrow-next.nextend-arrow-animated-horizontal .n2-active{right:100%;}div#n2-ss-2 .nextend-arrow-previous.nextend-arrow-animated-horizontal:HOVER > div,div#n2-ss-2 .nextend-arrow-previous.nextend-arrow-animated-horizontal:FOCUS > div{transform:translateX(-100%);}div#n2-ss-2 .nextend-arrow-next.nextend-arrow-animated-horizontal:HOVER > div,div#n2-ss-2 .nextend-arrow-next.nextend-arrow-animated-horizontal:FOCUS > div{transform:translateX(100%);}div#n2-ss-2 .nextend-arrow-animated-vertical > div{transition:all 0.4s;transform:none;}div#n2-ss-2 .nextend-arrow-animated-vertical .n2-active{left:0;}div#n2-ss-2 .nextend-arrow-previous.nextend-arrow-animated-vertical .n2-active{top:100%;}div#n2-ss-2 .nextend-arrow-next.nextend-arrow-animated-vertical .n2-active{bottom:100%;}div#n2-ss-2 .nextend-arrow-previous.nextend-arrow-animated-vertical:HOVER > div,div#n2-ss-2 .nextend-arrow-previous.nextend-arrow-animated-vertical:FOCUS > div{transform:translateY(-100%);}div#n2-ss-2 .nextend-arrow-next.nextend-arrow-animated-vertical:HOVER > div,div#n2-ss-2 .nextend-arrow-next.nextend-arrow-animated-vertical:FOCUS > div{transform:translateY(100%);}div#n2-ss-2 .n2-ss-slide-limiter{max-width:1200px;}div#n2-ss-2 .n-uc-lhTg7axd4in9{padding:10px 10px 10px 10px}div#n2-ss-2 .nextend-arrow img{width: 32px}@media (min-width: 1200px){div#n2-ss-2 [data-hide-desktopportrait="1"]{display: none !important;}}@media (orientation: landscape) and (max-width: 1199px) and (min-width: 901px),(orientation: portrait) and (max-width: 1199px) and (min-width: 701px){div#n2-ss-2 [data-hide-tabletportrait="1"]{display: none !important;}}@media (orientation: landscape) and (max-width: 900px),(orientation: portrait) and (max-width: 700px){div#n2-ss-2 [data-hide-mobileportrait="1"]{display: none !important;}div#n2-ss-2 .nextend-arrow img{width: 16px}}</style>
+<script type='text/javascript' src='https://c0.wp.com/c/5.8.2/wp-includes/js/jquery/jquery.min.js' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.8.2/wp-includes/js/jquery/jquery-migrate.min.js' id='jquery-migrate-js'></script>
+<link rel="https://api.w.org/" href="https://cilaquim.com/wp-json/" /><link rel="alternate" type="application/json" href="https://cilaquim.com/wp-json/wp/v2/pages/2" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://cilaquim.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://cilaquim.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.8.2" />
+<meta name="generator" content="WooCommerce 5.1.0" />
+<link rel="canonical" href="https://cilaquim.com/" />
+<link rel='shortlink' href='https://cilaquim.com/' />
+<link rel="alternate" type="application/json+oembed" href="https://cilaquim.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcilaquim.com%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://cilaquim.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcilaquim.com%2F&#038;format=xml" />
+<style type='text/css'>img#wpstats{display:none}</style>
+		
+
+<link href="https://cilaquim.com/wp-content/uploads/2021/11/Cilaquim-Logo.png" rel="shortcut icon" /> 
+
+
+
+
+		<link rel="preconnect" href="https://fonts.googleapis.com" crossorigin/>
+	
+	<script type="text/javascript">
+	    var tf_mobile_menu_trigger_point = 900;
+	</script>
+	
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<style>
+	@-webkit-keyframes themifyAnimatedBG {
+		0% { background-color: #33baab; }
+100% { background-color: #e33b9e; }
+50% { background-color: #4961d7; }
+33.3% { background-color: #2ea85c; }
+25% { background-color: #2bb8ed; }
+20% { background-color: #dd5135; }
+
+	}
+	@keyframes themifyAnimatedBG {
+		0% { background-color: #33baab; }
+100% { background-color: #e33b9e; }
+50% { background-color: #4961d7; }
+33.3% { background-color: #2ea85c; }
+25% { background-color: #2bb8ed; }
+20% { background-color: #dd5135; }
+
+	}
+	.themify_builder_row.animated-bg {
+		-webkit-animation: themifyAnimatedBG 30000ms infinite alternate;
+		animation: themifyAnimatedBG 30000ms infinite alternate;
+	}
+	</style>
+		<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	<style type="text/css" media="print">#wpadminbar { display:none; }</style>
+	<style type="text/css" media="screen">
+	html { margin-top: 32px !important; }
+	* html body { margin-top: 32px !important; }
+	@media screen and ( max-width: 782px ) {
+		html { margin-top: 46px !important; }
+		* html body { margin-top: 46px !important; }
+	}
+</style>
+	<link rel="icon" href="https://i1.wp.com/cilaquim.com/wp-content/uploads/2021/03/cropped-SiteIcon-2-1.png?fit=32%2C32&#038;ssl=1" sizes="32x32" />
+<link rel="icon" href="https://i1.wp.com/cilaquim.com/wp-content/uploads/2021/03/cropped-SiteIcon-2-1.png?fit=192%2C192&#038;ssl=1" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://i1.wp.com/cilaquim.com/wp-content/uploads/2021/03/cropped-SiteIcon-2-1.png?fit=180%2C180&#038;ssl=1" />
+<meta name="msapplication-TileImage" content="https://i1.wp.com/cilaquim.com/wp-content/uploads/2021/03/cropped-SiteIcon-2-1.png?fit=270%2C270&#038;ssl=1" />
+
+<style data-ampdevmode type='text/css'>
+#wpadminbar .quicklinks li#wp-admin-bar-stats {
+	height: 32px;
+}
+#wpadminbar .quicklinks li#wp-admin-bar-stats a {
+	height: 32px;
+	padding: 0;
+}
+#wpadminbar .quicklinks li#wp-admin-bar-stats a div {
+	height: 32px;
+	width: 95px;
+	overflow: hidden;
+	margin: 0 10px;
+}
+#wpadminbar .quicklinks li#wp-admin-bar-stats a:hover div {
+	width: auto;
+	margin: 0 8px 0 10px;
+}
+#wpadminbar .quicklinks li#wp-admin-bar-stats a img {
+	height: 24px;
+	margin: 4px 0;
+	max-width: none;
+	border: none;
+}
+</style>
+			<style type="text/css" id="wp-custom-css">
+			div.inside-right-sidebar {
+    display: none;
+}		</style>
+		<script data-ampdevmode type="text/javascript">
+/* <![CDATA[ */
+	var wpNotesIsJetpackClient = true;
+	var wpNotesIsJetpackClientV2 = true;
+	var wpNotesLinkAccountsURL = 'https://cilaquim.com/wp-admin/admin.php?page=jetpack';
+/* ]]> */
+</script>
+
+<script>(function(){this._N2=this._N2||{_r:[],_d:[],r:function(){this._r.push(arguments)},d:function(){this._d.push(arguments)}}}).call(window);!function(a){a.indexOf("Safari")>0&&-1===a.indexOf("Chrome")&&document.documentElement.style.setProperty("--ss-safari-fix-225962","1px")}(navigator.userAgent);</script><script src="https://cilaquim.com/wp-content/plugins/smart-slider-3/Public/SmartSlider3/Application/Frontend/Assets/dist/n2.min.js?ver=f4759c2e" defer async></script>
+<script src="https://cilaquim.com/wp-content/plugins/smart-slider-3/Public/SmartSlider3/Application/Frontend/Assets/dist/smartslider-frontend.min.js?ver=f4759c2e" defer async></script>
+<script src="https://cilaquim.com/wp-content/plugins/smart-slider-3/Public/SmartSlider3/Slider/SliderType/Simple/Assets/dist/ss-simple.min.js?ver=f4759c2e" defer async></script>
+<script src="https://cilaquim.com/wp-content/plugins/smart-slider-3/Public/SmartSlider3/Widget/Arrow/ArrowImage/Assets/dist/w-arrow-image.min.js?ver=f4759c2e" defer async></script>
+<script>_N2.r('documentReady',function(){_N2.r(["documentReady","smartslider-frontend","SmartSliderWidgetArrowImage","ss-simple"],function(){new _N2.SmartSliderSimple('n2-ss-2',{"admin":false,"callbacks":"","background.video.mobile":1,"loadingTime":2000,"alias":{"id":0,"smoothScroll":0,"slideSwitch":0,"scroll":1},"align":"normal","isDelayed":0,"responsive":{"mediaQueries":{"all":false,"desktopportrait":["(min-width: 1200px)"],"tabletportrait":["(orientation: landscape) and (max-width: 1199px) and (min-width: 901px)","(orientation: portrait) and (max-width: 1199px) and (min-width: 701px)"],"mobileportrait":["(orientation: landscape) and (max-width: 900px)","(orientation: portrait) and (max-width: 700px)"]},"base":{"slideOuterWidth":1200,"slideOuterHeight":500,"sliderWidth":1200,"sliderHeight":500,"slideWidth":1200,"slideHeight":500},"hideOn":{"desktopLandscape":false,"desktopPortrait":false,"tabletLandscape":false,"tabletPortrait":false,"mobileLandscape":false,"mobilePortrait":false},"onResizeEnabled":true,"type":"fullwidth","sliderHeightBasedOn":"real","focusUser":1,"focusEdge":"auto","breakpoints":[{"device":"tabletPortrait","type":"max-screen-width","portraitWidth":1199,"landscapeWidth":1199},{"device":"mobilePortrait","type":"max-screen-width","portraitWidth":700,"landscapeWidth":900}],"enabledDevices":{"desktopLandscape":0,"desktopPortrait":1,"tabletLandscape":0,"tabletPortrait":1,"mobileLandscape":0,"mobilePortrait":1},"sizes":{"desktopPortrait":{"width":1200,"height":500,"max":3000,"min":1200},"tabletPortrait":{"width":701,"height":292,"customHeight":false,"max":1199,"min":701},"mobilePortrait":{"width":320,"height":133,"customHeight":false,"max":900,"min":320}},"overflowHiddenPage":0,"focus":{"offsetTop":"#wpadminbar","offsetBottom":""}},"controls":{"mousewheel":0,"touch":"horizontal","keyboard":1,"blockCarouselInteraction":1},"playWhenVisible":1,"playWhenVisibleAt":0.5,"lazyLoad":0,"lazyLoadNeighbor":0,"blockrightclick":0,"maintainSession":0,"autoplay":{"enabled":1,"start":1,"duration":800,"autoplayLoop":1,"allowReStart":0,"pause":{"click":1,"mouse":"0","mediaStarted":1},"resume":{"click":0,"mouse":"0","mediaEnded":1,"slidechanged":0},"interval":1,"intervalModifier":"loop","intervalSlide":"current"},"perspective":1500,"layerMode":{"playOnce":0,"playFirstLayer":1,"mode":"skippable","inAnimation":"mainInEnd"},"bgAnimations":0,"mainanimation":{"type":"horizontal","duration":1500,"delay":0,"ease":"easeOutQuad","shiftedBackgroundAnimation":0},"carousel":1,"initCallbacks":function(){new _N2.SmartSliderWidgetArrowImage(this)}})})});</script></head>
+
+<body class="home page-template-default page page-id-2 logged-in admin-bar no-customize-support theme-themify-ultra woocommerce-no-js themify-fw-4-9-1 themify-ultra-2-8-2 skin-default webkit not-ie default_width sidebar-none no-touch slide-cart builder-parallax-scrolling-active ready-view header-horizontal fixed-header footer-horizontal-left theme-color-lime  rss-off search-off footer-widgets-off tile_enable filter-hover-none filter-featured-only masonry-enabled">
+
+<script type="text/javascript">
+	function themifyMobileMenuTrigger(e) {
+		var w = document.body.clientWidth;
+		if( w > 0 && w <= tf_mobile_menu_trigger_point ) {
+			document.body.classList.add( 'mobile_menu_active' );
+		} else {
+			document.body.classList.remove( 'mobile_menu_active' );
+		}
+		
+	}
+	themifyMobileMenuTrigger();
+	var _init =function () {
+	    jQuery( window ).on('tfsmartresize.tf_mobile_menu', themifyMobileMenuTrigger );
+	    document.removeEventListener( 'DOMContentLoaded', _init, {once:true,passive:true} );
+	    _init=null;
+	};
+	document.addEventListener( 'DOMContentLoaded', _init, {once:true,passive:true} );
+</script>
+	<script type="text/javascript">
+		(function() {
+			var request, b = document.body, c = 'className', cs = 'customize-support', rcs = new RegExp('(^|\\s+)(no-)?'+cs+'(\\s+|$)');
+
+				request = true;
+	
+			b[c] = b[c].replace( rcs, ' ' );
+			// The customizer requires postMessage and CORS (if the site is cross domain).
+			b[c] += ( window.postMessage && request ? ' ' : ' no-' ) + cs;
+		}());
+	</script>
+			<div id="wpadminbar" class="nojq nojs">
+						<div class="quicklinks" id="wp-toolbar" role="navigation" aria-label="Barra de herramientas">
+				<ul id='wp-admin-bar-root-default' class="ab-top-menu"><li id='wp-admin-bar-wp-logo' class="menupop"><a class='ab-item' aria-haspopup="true" href='https://cilaquim.com/wp-admin/about.php'><span class="ab-icon" aria-hidden="true"></span><span class="screen-reader-text">Acerca de WordPress</span></a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-wp-logo-default' class="ab-submenu"><li id='wp-admin-bar-about'><a class='ab-item' href='https://cilaquim.com/wp-admin/about.php'>Acerca de WordPress</a></li></ul><ul id='wp-admin-bar-wp-logo-external' class="ab-sub-secondary ab-submenu"><li id='wp-admin-bar-wporg'><a class='ab-item' href='https://es.wordpress.org/'>WordPress.org</a></li><li id='wp-admin-bar-documentation'><a class='ab-item' href='https://es.wordpress.org/support/'>Documentación</a></li><li id='wp-admin-bar-support-forums'><a class='ab-item' href='https://es.wordpress.org/support/'>Soporte</a></li><li id='wp-admin-bar-feedback'><a class='ab-item' href='https://es.wordpress.org/support/forum/comunidad/peticiones-y-feedback/'>Sugerencias</a></li></ul></div></li><li id='wp-admin-bar-site-name' class="menupop"><a class='ab-item' aria-haspopup="true" href='https://cilaquim.com/wp-admin/'>CILAQUIM</a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-site-name-default' class="ab-submenu"><li id='wp-admin-bar-dashboard'><a class='ab-item' href='https://cilaquim.com/wp-admin/'>Escritorio</a></li></ul><ul id='wp-admin-bar-appearance' class="ab-submenu"><li id='wp-admin-bar-themes'><a class='ab-item' href='https://cilaquim.com/wp-admin/themes.php'>Temas</a></li><li id='wp-admin-bar-widgets'><a class='ab-item' href='https://cilaquim.com/wp-admin/widgets.php'>Widgets</a></li><li id='wp-admin-bar-menus'><a class='ab-item' href='https://cilaquim.com/wp-admin/nav-menus.php'>Menús</a></li><li id='wp-admin-bar-themify-settings'><a class='ab-item' href='https://cilaquim.com/wp-admin/admin.php?page=themify'>Themify Settings</a></li></ul></div></li><li id='wp-admin-bar-customize' class="hide-if-no-customize"><a class='ab-item' href='https://cilaquim.com/wp-admin/customize.php?url=https%3A%2F%2Fcilaquim.com%2F'>Personalizar</a></li><li id='wp-admin-bar-updates'><a class='ab-item' href='https://cilaquim.com/wp-admin/update-core.php'><span class="ab-icon" aria-hidden="true"></span><span class="ab-label" aria-hidden="true">11</span><span class="screen-reader-text updates-available-text">11 actualizaciones disponibles</span></a></li><li id='wp-admin-bar-comments'><a class='ab-item' href='https://cilaquim.com/wp-admin/edit-comments.php'><span class="ab-icon" aria-hidden="true"></span><span class="ab-label awaiting-mod pending-count count-0" aria-hidden="true">0</span><span class="screen-reader-text comments-in-moderation-text">0 comentarios en moderación</span></a></li><li id='wp-admin-bar-new-content' class="menupop"><a class='ab-item' aria-haspopup="true" href='https://cilaquim.com/wp-admin/post-new.php'><span class="ab-icon" aria-hidden="true"></span><span class="ab-label">Añadir</span></a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-new-content-default' class="ab-submenu"><li id='wp-admin-bar-new-post'><a class='ab-item' href='https://cilaquim.com/wp-admin/post-new.php'>Entrada</a></li><li id='wp-admin-bar-new-media'><a class='ab-item' href='https://cilaquim.com/wp-admin/media-new.php'>Medio</a></li><li id='wp-admin-bar-new-page'><a class='ab-item' href='https://cilaquim.com/wp-admin/post-new.php?post_type=page'>Página</a></li><li id='wp-admin-bar-new-product'><a class='ab-item' href='https://cilaquim.com/wp-admin/post-new.php?post_type=product'>Producto</a></li><li id='wp-admin-bar-new-shop_order'><a class='ab-item' href='https://cilaquim.com/wp-admin/post-new.php?post_type=shop_order'>Pedido</a></li><li id='wp-admin-bar-new-shop_coupon'><a class='ab-item' href='https://cilaquim.com/wp-admin/post-new.php?post_type=shop_coupon'>Cupón</a></li><li id='wp-admin-bar-new-user'><a class='ab-item' href='https://cilaquim.com/wp-admin/user-new.php'>Usuario</a></li><li id='wp-admin-bar-new_content_smart_slider'><a class='ab-item' href='https://cilaquim.com/wp-admin/admin.php?page=smart-slider3#createslider'>Slider [Smart Slider 3]</a></li><li id='wp-admin-bar-wpforms'><a class='ab-item' href='https://cilaquim.com/wp-admin/admin.php?page=wpforms-builder'>WPForms</a></li></ul></div></li><li id='wp-admin-bar-edit'><a class='ab-item' href='https://cilaquim.com/wp-admin/post.php?post=2&#038;action=edit'>Editar la página</a></li><li id='wp-admin-bar-smart_slider_3' class="menupop"><a class='ab-item' aria-haspopup="true" href='https://cilaquim.com/wp-admin/admin.php?page=smart-slider3'>Smart Slider</a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-smart_slider_3-default' class="ab-submenu"><li id='wp-admin-bar-smart_slider_3_dashboard'><a class='ab-item' href='https://cilaquim.com/wp-admin/admin.php?page=smart-slider3'>Dashboard</a></li><li id='wp-admin-bar-smart_slider_3_create_slider'><a class='ab-item' href='https://cilaquim.com/wp-admin/admin.php?page=smart-slider3#createslider'>Create slider</a></li><li id='wp-admin-bar-smart_slider_3_edit' class="menupop"><a class='ab-item' aria-haspopup="true" href='https://cilaquim.com/wp-admin/admin.php?page=smart-slider3'><span class="wp-admin-bar-arrow" aria-hidden="true"></span>Edit slider</a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-smart_slider_3_edit-default' class="ab-submenu"><li id='wp-admin-bar-smart_slider_3_slider_2'><a class='ab-item' href='https://cilaquim.com/wp-admin/admin.php?page=smart-slider3&#038;nextendcontroller=slider&#038;nextendaction=edit&#038;sliderid=2&#038;groupID=0'>#2 - Cilaquim</a></li><li id='wp-admin-bar-smart_slider_3_slider_1'><a class='ab-item' href='https://cilaquim.com/wp-admin/admin.php?page=smart-slider3&#038;nextendcontroller=slider&#038;nextendaction=edit&#038;sliderid=1&#038;groupID=0'>#1 - Tutorial Slider</a></li></ul></div></li></ul></div></li><li id='wp-admin-bar-themify_builder' class="toggle_tb_builder"><a class='ab-item' href='#'><span data-id="2" class="tb_front_icon"></span><span class="tb_tooltip">Builder is not available on this page</span>Turn On Builder</a></li><li id='wp-admin-bar-stats'><a class='ab-item' href='https://cilaquim.com/wp-admin/admin.php?page=stats'><div><img src='https://cilaquim.com/wp-admin/admin.php?page=stats&amp;noheader&amp;proxy&amp;chart=admin-bar-hours-scale' srcset='https://cilaquim.com/wp-admin/admin.php?page=stats&amp;noheader&amp;proxy&amp;chart=admin-bar-hours-scale 1x, https://cilaquim.com/wp-admin/admin.php?page=stats&amp;noheader&amp;proxy&amp;chart=admin-bar-hours-scale-2x 2x' width='112' height='24' alt='Estadísticas' title='Visitas de 48 horas. Haz clic para m&#225;s Estad&#237;sticas del Sitio.'></div></a></li><li id='wp-admin-bar-wpforms-menu' class="menupop"><a class='ab-item' aria-haspopup="true" href='https://cilaquim.com/wp-admin/admin.php?page=wpforms-overview'>WPForms</a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-wpforms-menu-default' class="ab-submenu"><li id='wp-admin-bar-wpforms-forms'><a class='ab-item' href='https://cilaquim.com/wp-admin/admin.php?page=wpforms-overview'>Todos los formularios</a></li><li id='wp-admin-bar-wpforms-add-new'><a class='ab-item' href='https://cilaquim.com/wp-admin/admin.php?page=wpforms-builder'>Añadir nuevo</a></li><li id='wp-admin-bar-wpforms-community'><a class='ab-item' href='https://www.facebook.com/groups/wpformsvip/' target='_blank' rel='noopener noreferrer'>Comunidad</a></li><li id='wp-admin-bar-wpforms-support'><a class='ab-item' href='https://wpforms.com/docs/' target='_blank' rel='noopener noreferrer'>Soporte</a></li></ul></div></li></ul><ul id='wp-admin-bar-top-secondary' class="ab-top-secondary ab-top-menu"><li id='wp-admin-bar-search' class="admin-bar-search"><div class="ab-item ab-empty-item" tabindex="-1"><form action="https://cilaquim.com/" method="get" id="adminbarsearch"><input class="adminbar-input" name="s" id="adminbar-search" type="text" value="" maxlength="150" /><label for="adminbar-search" class="screen-reader-text">Buscar</label><input type="submit" class="adminbar-button" value="Buscar" /></form></div></li><li id='wp-admin-bar-my-account' class="menupop with-avatar"><a class='ab-item' aria-haspopup="true" href='https://cilaquim.com/wp-admin/profile.php'>Hola, <span class="display-name">Santiago Checa</span><img alt='' src='https://secure.gravatar.com/avatar/fc098e0473d2a344b424a9311e38e783?s=26&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/fc098e0473d2a344b424a9311e38e783?s=52&#038;d=mm&#038;r=g 2x' itemprop='image' class='avatar avatar-26 photo' height='26' width='26' loading='lazy'/></a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-user-actions' class="ab-submenu"><li id='wp-admin-bar-user-info'><a class='ab-item' tabindex="-1" href='https://cilaquim.com/wp-admin/profile.php'><img alt='' src='https://secure.gravatar.com/avatar/fc098e0473d2a344b424a9311e38e783?s=64&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/fc098e0473d2a344b424a9311e38e783?s=128&#038;d=mm&#038;r=g 2x' itemprop='image' class='avatar avatar-64 photo' height='64' width='64' loading='lazy'/><span class='display-name'>Santiago Checa</span><span class='username'>Santiago - CILAQUIM</span></a></li><li id='wp-admin-bar-edit-profile'><a class='ab-item' href='https://cilaquim.com/wp-admin/profile.php'>Editar el perfil</a></li><li id='wp-admin-bar-logout'><a class='ab-item' href='https://cilaquim.com/wp-login.php?action=logout&#038;_wpnonce=eb728a2b4b'>Salir</a></li></ul></div></li><li id='wp-admin-bar-notes' class="menupop"><div class="ab-item ab-empty-item"><span id="wpnt-notes-unread-count" class="wpnt-loading wpn-read">
+					<span class="noticon noticon-notification"></span>
+					</span></div><div id="wpnt-notes-panel2" class="intrinsic-ignore" style="display:none" lang="es_EC" dir="ltr"><div class="wpnt-notes-panel-header"><span class="wpnt-notes-header">Avisos</span><span class="wpnt-notes-panel-link"></span></div></div></li><li id='wp-admin-bar-jetpack-scan-notice' class="error is-hidden"><div class="ab-item ab-empty-item" title='Ver detalles de la exploración de seguridad'></div></li></ul>			</div>
+						<a class="screen-reader-shortcut" href="https://cilaquim.com/wp-login.php?action=logout&#038;_wpnonce=eb728a2b4b">Salir</a>
+					</div>
+
+		<div id="pagewrap" class="hfeed site">
+
+			<div id="headerwrap"   >
+                        			                                                    <div class="header-icons">
+                                <a id="menu-icon" href="#mobile-menu" aria-label="Menu"><span class="menu-icon-inner"></span></a>
+                            </div>
+                        
+			<header id="header" class="pagewidth clearfix" itemscope="itemscope" itemtype="https://schema.org/WPHeader">
+
+	            
+	            <div class="header-bar">
+		            						<div id="site-logo"><a href="https://cilaquim.com" title="CILAQUIM"><img src="https://cilaquim.com/wp-content/uploads/2021/11/imageonline-co-transparentimage.png" alt="CILAQUIM" title="imageonline-co-transparentimage" /></a></div>					
+																				</div>
+				<!-- /.header-bar -->
+
+									<div id="mobile-menu" class="sidemenu sidemenu-off">
+
+						
+						<div class="navbar-wrapper clearfix">
+
+															<div class="social-widget">
+																												
+																	</div>
+								<!-- /.social-widget -->
+							
+							
+							<nav id="main-nav-wrap" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement">
+																	<ul id="main-nav" class="main-nav menu-name-primary"><li id='menu-item-29' class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home" ><a  href="https://cilaquim.com/">Inicio</a> </li>
+<li id='menu-item-30' class="menu-item menu-item-type-post_type menu-item-object-page" ><a  href="https://cilaquim.com/about/">Empresa</a> </li>
+<li id='menu-item-31' class="menu-item menu-item-type-post_type menu-item-object-page" ><a  href="https://cilaquim.com/blog/">Blog</a> </li>
+<li id='menu-item-92' class="menu-item menu-item-type-taxonomy menu-item-object-product_cat" data-termid="23" data-tax="product_cat"><a  href="https://cilaquim.com/product-category/comprar/">Comprar</a> </li>
+</ul>									<!-- /#main-nav -->
+									
+																												<div class="cart-icon">
+											<span class="check-cart"></span>
+											<div class="cart-wrap">
+												<a id="cart-icon" href="#slide-cart">
+													<i class=" icon-shopping-cart"></i>
+													<span>
+														1													</span>
+												</a>
+											<!-- /.cart-wrap -->
+											</div>
+										</div>
+																		
+															</nav>
+							<!-- /#main-nav-wrap -->
+							
+						</div>
+
+																				<!-- /header-widgets -->
+						
+						<a id="menu-icon-close" aria-label="Close menu" href="#"></a>
+
+						
+					</div><!-- #mobile-menu -->
+                     					<!-- /#mobile-menu -->
+				
+				
+									<div id="slide-cart" class="sidemenu sidemenu-off">
+						<a id="cart-icon-close"></a>
+						<div id="shopdock-ultra">
+
+	
+			<div id="cart-wrap">
+
+			<div id="cart-list">
+				<div class="jspContainer">
+					<div class="jspPane">
+						
+		<div class="product">
+
+			<a href="https://cilaquim.com/cart/?remove_item=f4b9ec30ad9f68f89b29639786cb62ef&#038;_wpnonce=06690fe499" data-product-key="f4b9ec30ad9f68f89b29639786cb62ef" class="remove-item remove-item-js">
+				<i class="icon-flatshop-close"></i>
+			</a>
+
+			<figure class="product-image">
+								<a href="https://cilaquim.com/product/cilani-250ml/">
+					<figure class="product-image" style="-webkit-margin-before: 0px;-webkit-margin-after: 0px;-webkit-margin-start: 0px;-webkit-margin-end: 0px;-moz-margin-start: 0px;-moz-margin-end: 0px;-moz-margin-before: 0px;-moz-margin-after: 0px;"><img width="440" height="585" src="https://cilaquim.com/wp-content/uploads/2021/06/cilani250.jpg" class="attachment-cart_thumbnail size-cart_thumbnail wp-post-image" alt="" loading="lazy" srcset="https://i2.wp.com/cilaquim.com/wp-content/uploads/2021/06/cilani250.jpg?w=440&amp;ssl=1 440w, https://i2.wp.com/cilaquim.com/wp-content/uploads/2021/06/cilani250.jpg?resize=226%2C300&amp;ssl=1 226w" sizes="(max-width: 440px) 100vw, 440px" /><span class="loading-product"></span></figure>				</a>
+							</figure>
+
+			<div class="product-details">
+				<h3 class="product-title">
+					<a href="https://cilaquim.com/product/cilani-250ml/">
+						CILANI 250ml.					</a>
+				</h3>
+				<p class="quantity-count">x 1</p>
+			</div>
+
+		</div>
+		<!--/product -->
+
+	
+					</div>
+					<!-- /.jspPane -->
+				</div>
+				<!-- /.jspContainer -->
+			</div>
+			<!-- /cart-list -->
+
+			<p class="cart-total">
+				<span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>2.65</bdi></span>				<a id="view-cart" href="https://cilaquim.com/cart/">
+					View Cart				</a>
+			</p>
+
+			
+			<p class="checkout-button">
+				<button type="submit" class="button checkout white flat" onClick="document.location.href='https://cilaquim.com/checkout/'; return false;">Checkout</button>
+			</p>
+			<!-- /checkout-botton -->
+
+			
+		</div>
+		<!-- /#cart-wrap -->
+	
+	
+</div>
+<!-- /#shopdock -->
+
+					</div>
+				
+				
+			</header>
+			<!-- /#header -->
+
+	        
+		</div>
+		<!-- /#headerwrap -->
+	
+	<div id="body" class="clearfix">
+
+		
+
+<!-- layout-container -->
+<div id="layout" class="pagewidth clearfix">
+
+		<!-- content -->
+	<div id="content" class="clearfix">
+    	
+		
+							<div id="page-2" class="type-page">
+
+			<!-- page-title -->
+							
+				<time datetime="2021-03-28"></time>
+										<!-- /page-title -->
+
+			<div class="page-content entry-content">
+
+				
+				
+<p></p>
+
+
+<link rel="preload" href="https://cilaquim.com/wp-content/themes/themify-ultra/themify/themify-builder/css/themify-builder-style.min.css?ver=4.9.1" as="style" data-no-minify="1" /><script type="text/javascript">
+				if(document.getElementById( "themify-builder-style" )===null ){
+					var el =  document.getElementById( "builder-styles-css" );
+					if(el!==null){
+					var link = document.createElement("link");
+					link.id="themify-builder-style";
+					link.rel="stylesheet";
+					link.type="text/css";
+					link.href=el.getAttribute("data-href");
+					el.parentNode.replaceChild( link, el);
+					}
+				}
+			</script><div id="themify_builder_content-2" data-postid="2" class="themify_builder_content themify_builder_content-2 themify_builder">
+    	<!-- module_row -->
+	<div   class="themify_builder_row module_row clearfix module_row_0 themify_builder_2_row module_row_2-0 tb_t279541">
+	    	    <div class="row_inner col_align_top" >
+			<div  class="module_column tb-column col-full first tb_2_column module_column_0 module_column_2-0-0 tb_y0vj542">
+	    	    	        <div class="tb-column-inner">
+		    <!-- module plain text -->
+<div  class="module module-plain-text tb_w9p2471  ">
+        <div class="tb_text_wrap" >
+	<div><ss3-force-full-width data-overflow-x="body" data-horizontal-selector="body"><div class="n2-section-smartslider fitvidsignore  n2_clear" data-ssid="2"><div id="n2-ss-2-align" class="n2-ss-align"><div class="n2-padding"><div id="n2-ss-2" data-creator="Smart Slider 3" data-responsive="fullwidth" class="n2-ss-slider n2-ow n2-has-hover n2notransition  "><div class="n2-ss-slider-wrapper-inside">
+        <div class="n2-ss-slider-1 n2_ss__touch_element n2-ow" style="">
+            <div class="n2-ss-slider-2 n2-ow">
+                                                <div class="n2-ss-slider-3 n2-ow" style="">
+
+                    <div class="n2-ss-slide-backgrounds n2-ow-all"><div class="n2-ss-slide-background" data-public-id="1" data-mode="fill"><div class="n2-ss-slide-background-image" data-blur="0" data-opacity="100" data-x="50" data-y="50" data-alt="" data-title=""><picture class="skip-lazy jetpack-lazy-image" data-skip-lazy="1"><img src="//cilaquim.com/wp-content/uploads/2021/03/cropped-Logo-2.png" alt="" title="" loading="lazy" class="skip-lazy jetpack-lazy-image" data-skip-lazy="1"></picture></div><div data-color="RGBA(255,255,255,0)" style="background-color: RGBA(255,255,255,0);" class="n2-ss-slide-background-color"></div></div><div class="n2-ss-slide-background" data-public-id="2" data-mode="fill"><div class="n2-ss-slide-background-image" data-blur="0" data-opacity="100" data-x="50" data-y="50" data-alt="" data-title=""><picture class="skip-lazy jetpack-lazy-image" data-skip-lazy="1"><img src="//cilaquim.com/wp-content/uploads/2021/06/hygiene-3517277_1920.jpg" alt="" title="" loading="lazy" class="skip-lazy jetpack-lazy-image" data-skip-lazy="1"></picture></div><div data-color="RGBA(255,255,255,0)" style="background-color: RGBA(255,255,255,0);" class="n2-ss-slide-background-color"></div></div><div class="n2-ss-slide-background" data-public-id="3" data-mode="fill"><div class="n2-ss-slide-background-image" data-blur="0" data-opacity="100" data-x="50" data-y="50" data-alt="" data-title=""><picture class="skip-lazy jetpack-lazy-image" data-skip-lazy="1"><img src="//cilaquim.com/wp-content/uploads/2021/04/Cilani.jpeg" alt="" title="" loading="lazy" class="skip-lazy jetpack-lazy-image" data-skip-lazy="1"></picture></div><div data-color="RGBA(255,255,255,0)" style="background-color: RGBA(255,255,255,0);" class="n2-ss-slide-background-color"></div></div></div>                    <div class="n2-ss-slider-4 n2-ow">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 500" data-related-device="desktopPortrait" class="n2-ow n2-ss-preserve-size n2-ss-preserve-size--slider n2-ss-slide-limiter"></svg><div data-first="1" data-slide-duration="0" data-id="5" data-slide-public-id="1" data-title="cropped-Logo-2.png" class="n2-ss-slide n2-ow  n2-ss-slide-5"><div role="note" class="n2-ss-slide--focus" tabindex="-1">cropped-Logo-2.png</div><div class="n2-ss-layers-container n2-ss-slide-limiter n2-ow"><div class="n2-ss-layer n2-ow n-uc-GqoN60ZIzihX" data-sstype="slide" data-pm="default"></div></div></div><div data-slide-duration="0" data-id="3" data-slide-public-id="2" data-title="hygiene-3517277_1920" class="n2-ss-slide n2-ow  n2-ss-slide-3"><div role="note" class="n2-ss-slide--focus" tabindex="-1">hygiene-3517277_1920</div><div class="n2-ss-layers-container n2-ss-slide-limiter n2-ow"><div class="n2-ss-layer n2-ow n-uc-xmXbycegS3ke" data-sstype="slide" data-pm="default"></div></div></div><div data-slide-duration="0" data-id="4" data-slide-public-id="3" data-title="Cilani" class="n2-ss-slide n2-ow  n2-ss-slide-4"><div role="note" class="n2-ss-slide--focus" tabindex="-1">Cilani</div><div class="n2-ss-layers-container n2-ss-slide-limiter n2-ow"><div class="n2-ss-layer n2-ow n-uc-lhTg7axd4in9" data-sstype="slide" data-pm="default"></div></div></div>                    </div>
+
+                                    </div>
+            </div>
+        </div>
+        <div class="n2-ss-slider-controls n2-ss-slider-controls-absolute-left-center"><div style="--widget-offset:15px;" class="n2-ss-widget nextend-arrow n2-ow-all nextend-arrow-previous  nextend-arrow-animated-fade" data-hide-mobileportrait="1" id="n2-ss-2-arrow-previous" role="button" aria-label="previous arrow" tabindex="0"><img loading="lazy" width="32" height="32" class="skip-lazy jetpack-lazy-image" data-skip-lazy="1" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICAgIDxwYXRoIGQ9Ik0xMS40MzMgMTUuOTkyTDIyLjY5IDUuNzEyYy4zOTMtLjM5LjM5My0xLjAzIDAtMS40Mi0uMzkzLS4zOS0xLjAzLS4zOS0xLjQyMyAwbC0xMS45OCAxMC45NGMtLjIxLjIxLS4zLjQ5LS4yODUuNzYtLjAxNS4yOC4wNzUuNTYuMjg0Ljc3bDExLjk4IDEwLjk0Yy4zOTMuMzkgMS4wMy4zOSAxLjQyNCAwIC4zOTMtLjQuMzkzLTEuMDMgMC0xLjQybC0xMS4yNTctMTAuMjkiCiAgICAgICAgICBmaWxsPSIjZmZmZmZmIiBvcGFjaXR5PSIwLjgiIGZpbGwtcnVsZT0iZXZlbm9kZCIvPgo8L3N2Zz4=" alt="previous arrow"></div></div><div class="n2-ss-slider-controls n2-ss-slider-controls-absolute-right-center"><div style="--widget-offset:15px;" class="n2-ss-widget nextend-arrow n2-ow-all nextend-arrow-next  nextend-arrow-animated-fade" data-hide-mobileportrait="1" id="n2-ss-2-arrow-next" role="button" aria-label="next arrow" tabindex="0"><img loading="lazy" width="32" height="32" class="skip-lazy jetpack-lazy-image" data-skip-lazy="1" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICAgIDxwYXRoIGQ9Ik0xMC43MjIgNC4yOTNjLS4zOTQtLjM5LTEuMDMyLS4zOS0xLjQyNyAwLS4zOTMuMzktLjM5MyAxLjAzIDAgMS40MmwxMS4yODMgMTAuMjgtMTEuMjgzIDEwLjI5Yy0uMzkzLjM5LS4zOTMgMS4wMiAwIDEuNDIuMzk1LjM5IDEuMDMzLjM5IDEuNDI3IDBsMTIuMDA3LTEwLjk0Yy4yMS0uMjEuMy0uNDkuMjg0LS43Ny4wMTQtLjI3LS4wNzYtLjU1LS4yODYtLjc2TDEwLjcyIDQuMjkzeiIKICAgICAgICAgIGZpbGw9IiNmZmZmZmYiIG9wYWNpdHk9IjAuOCIgZmlsbC1ydWxlPSJldmVub2RkIi8+Cjwvc3ZnPg==" alt="next arrow"></div></div></div></div><ss3-loader></ss3-loader></div></div><div class="n2_clear"></div></div></ss3-force-full-width></div>
+    </div>
+</div>
+<!-- /module plain text -->	        </div>
+	    	</div>
+		    </div>
+	    <!-- /row_inner -->
+	</div>
+	<!-- /module_row -->
+		<!-- module_row -->
+	<div   class="themify_builder_row module_row clearfix wow bounceInUp module_row_1 themify_builder_2_row module_row_2-1 tb_934b575">
+	    	    <div class="row_inner col_align_top" >
+			<div  class="module_column tb-column col4-2 first tb_2_column module_column_0 module_column_2-1-0 tb_0zie576">
+	    	    	        <div class="tb-column-inner">
+		    <!-- module plain text -->
+<div  class="module module-plain-text tb_8czh596  ">
+        <div class="tb_text_wrap" >
+	<br>CILANI es la línea de productos específicos en la actual pandemia del COVID 19, que ayuda al cuidado de la salud personal y de la familia con su Gel Antibacterial como una de las normas de bioseguridad sugeridas a nivel mundial. Su uso ayuda prevenir el contagio, por la eliminación del virus y otras bacterias.<br><br>
+Busca estar al alcance de las personas con las presentaciones individuales pequeñas o para oficinas u hogar en presentaciones grandes.<br><br>
+Consulte los productos disponibles para satisfacer sus necesidades.
+    </div>
+</div>
+<!-- /module plain text -->	        </div>
+	    	</div>
+		<div  class="module_column tb-column col4-2 last tb_2_column module_column_1 module_column_2-1-1 tb_gu1r513">
+	    	    	        <div class="tb-column-inner">
+		        <!-- module image -->
+    <div  class="module module-image tb_ml2t946 rounded drop-shadow image-center  ">
+	                <div class="image-wrap">
+                            <img src="https://i2.wp.com/cilaquim.com/wp-content/uploads/2021/11/depositphotos_239529830-stock-illustration-man-mask-bacterias-viruses-fly.webp?fit=1165%2C350&#038;ssl=1" height="350" class=" wp-post-image wp-image-178" title="depositphotos_239529830-stock-illustration-man-mask-bacterias-viruses-fly" alt="depositphotos_239529830-stock-illustration-man-mask-bacterias-viruses-fly" srcset="https://i2.wp.com/cilaquim.com/wp-content/uploads/2021/11/depositphotos_239529830-stock-illustration-man-mask-bacterias-viruses-fly.webp?resize=350%2C350&amp;ssl=1 350w, https://i2.wp.com/cilaquim.com/wp-content/uploads/2021/11/depositphotos_239529830-stock-illustration-man-mask-bacterias-viruses-fly.webp?resize=300%2C300&amp;ssl=1 300w, https://i2.wp.com/cilaquim.com/wp-content/uploads/2021/11/depositphotos_239529830-stock-illustration-man-mask-bacterias-viruses-fly.webp?resize=150%2C150&amp;ssl=1 150w, https://i2.wp.com/cilaquim.com/wp-content/uploads/2021/11/depositphotos_239529830-stock-illustration-man-mask-bacterias-viruses-fly.webp?resize=100%2C100&amp;ssl=1 100w, https://i2.wp.com/cilaquim.com/wp-content/uploads/2021/11/depositphotos_239529830-stock-illustration-man-mask-bacterias-viruses-fly.webp?w=600&amp;ssl=1 600w" sizes="(max-width: 350px) 100vw, 350px" data-recalc-dims="1" />            
+                        </div>
+            <!-- /image-wrap -->
+        
+        
+        </div>
+    <!-- /module image -->
+	        </div>
+	    	</div>
+		    </div>
+	    <!-- /row_inner -->
+	</div>
+	<!-- /module_row -->
+		<!-- module_row -->
+	<div   class="themify_builder_row module_row clearfix repeat wow bounceIn fullwidth module_row_2 themify_builder_2_row module_row_2-2 tb_l088969">
+	    	    <div class="row_inner col_align_top" >
+			<div  class="module_column tb-column col4-1 first tb_2_column module_column_0 module_column_2-2-0 tb_el8k972">
+	    	    	        <div class="tb-column-inner">
+		        <!-- module image -->
+    <div  class="module module-image tb_lfh9748  image-center   hover-wow hover-animation-rubberBand">
+	                <div class="image-wrap">
+                            <img src="https://i1.wp.com/cilaquim.com/wp-content/uploads/2021/11/proteger.png?fit=1165%2C60&#038;ssl=1" height="60" class=" wp-post-image wp-image-147" title="proteger" alt="proteger" srcset="https://i1.wp.com/cilaquim.com/wp-content/uploads/2021/11/proteger.png?resize=60%2C60&amp;ssl=1 60w, https://i1.wp.com/cilaquim.com/wp-content/uploads/2021/11/proteger.png?resize=150%2C150&amp;ssl=1 150w, https://i1.wp.com/cilaquim.com/wp-content/uploads/2021/11/proteger.png?resize=100%2C100&amp;ssl=1 100w, https://i1.wp.com/cilaquim.com/wp-content/uploads/2021/11/proteger.png?resize=50%2C50&amp;ssl=1 50w, https://i1.wp.com/cilaquim.com/wp-content/uploads/2021/11/proteger.png?resize=75%2C75&amp;ssl=1 75w, https://i1.wp.com/cilaquim.com/wp-content/uploads/2021/11/proteger.png?w=256&amp;ssl=1 256w" sizes="(max-width: 60px) 100vw, 60px" data-recalc-dims="1" />            
+                        </div>
+            <!-- /image-wrap -->
+        
+        
+        </div>
+    <!-- /module image -->
+	        </div>
+	    	</div>
+		<div  class="module_column tb-column col4-1 second tb_2_column module_column_1 module_column_2-2-1 tb_e80v972">
+	    	    	        <div class="tb-column-inner">
+		        <!-- module image -->
+    <div  class="module module-image tb_pts4145  image-center   hover-wow hover-animation-rubberBand">
+	                <div class="image-wrap">
+                            <img src="https://i1.wp.com/cilaquim.com/wp-content/uploads/2021/11/gel-de-alcohol.png?fit=1165%2C60&#038;ssl=1" height="60" class=" wp-post-image wp-image-148" title="gel-de-alcohol" alt="gel-de-alcohol" srcset="https://i1.wp.com/cilaquim.com/wp-content/uploads/2021/11/gel-de-alcohol.png?resize=60%2C60&amp;ssl=1 60w, https://i1.wp.com/cilaquim.com/wp-content/uploads/2021/11/gel-de-alcohol.png?resize=150%2C150&amp;ssl=1 150w, https://i1.wp.com/cilaquim.com/wp-content/uploads/2021/11/gel-de-alcohol.png?resize=100%2C100&amp;ssl=1 100w, https://i1.wp.com/cilaquim.com/wp-content/uploads/2021/11/gel-de-alcohol.png?resize=75%2C75&amp;ssl=1 75w, https://i1.wp.com/cilaquim.com/wp-content/uploads/2021/11/gel-de-alcohol.png?w=256&amp;ssl=1 256w" sizes="(max-width: 60px) 100vw, 60px" data-recalc-dims="1" />            
+                        </div>
+            <!-- /image-wrap -->
+        
+        
+        </div>
+    <!-- /module image -->
+	        </div>
+	    	</div>
+		<div  class="module_column tb-column col4-1 third tb_2_column module_column_2 module_column_2-2-2 tb_hss9972">
+	    	    	        <div class="tb-column-inner">
+		        <!-- module image -->
+    <div  class="module module-image tb_746g263  image-center   hover-wow hover-animation-rubberBand">
+	                <div class="image-wrap">
+                            <img src="https://i2.wp.com/cilaquim.com/wp-content/uploads/2021/11/eucalipto.png?fit=1165%2C60&#038;ssl=1" height="60" class=" wp-post-image wp-image-149" title="eucalipto" alt="eucalipto" srcset="https://i2.wp.com/cilaquim.com/wp-content/uploads/2021/11/eucalipto.png?resize=60%2C60&amp;ssl=1 60w, https://i2.wp.com/cilaquim.com/wp-content/uploads/2021/11/eucalipto.png?resize=300%2C300&amp;ssl=1 300w, https://i2.wp.com/cilaquim.com/wp-content/uploads/2021/11/eucalipto.png?resize=150%2C150&amp;ssl=1 150w, https://i2.wp.com/cilaquim.com/wp-content/uploads/2021/11/eucalipto.png?resize=100%2C100&amp;ssl=1 100w, https://i2.wp.com/cilaquim.com/wp-content/uploads/2021/11/eucalipto.png?resize=75%2C75&amp;ssl=1 75w, https://i2.wp.com/cilaquim.com/wp-content/uploads/2021/11/eucalipto.png?w=512&amp;ssl=1 512w" sizes="(max-width: 60px) 100vw, 60px" data-recalc-dims="1" />            
+                        </div>
+            <!-- /image-wrap -->
+        
+        
+        </div>
+    <!-- /module image -->
+	        </div>
+	    	</div>
+		<div  class="module_column tb-column col4-1 last tb_2_column module_column_3 module_column_2-2-3 tb_iapp973">
+	    	    	        <div class="tb-column-inner">
+		        <!-- module image -->
+    <div  class="module module-image tb_tfxf931  image-center   hover-wow hover-animation-rubberBand">
+	                <div class="image-wrap">
+                            <img src="https://i2.wp.com/cilaquim.com/wp-content/uploads/2021/11/ecuador.png?fit=1165%2C60&#038;ssl=1" height="60" class=" wp-post-image wp-image-150" title="ecuador" alt="ecuador" srcset="https://i2.wp.com/cilaquim.com/wp-content/uploads/2021/11/ecuador.png?resize=60%2C60&amp;ssl=1 60w, https://i2.wp.com/cilaquim.com/wp-content/uploads/2021/11/ecuador.png?resize=300%2C300&amp;ssl=1 300w, https://i2.wp.com/cilaquim.com/wp-content/uploads/2021/11/ecuador.png?resize=150%2C150&amp;ssl=1 150w, https://i2.wp.com/cilaquim.com/wp-content/uploads/2021/11/ecuador.png?resize=100%2C100&amp;ssl=1 100w, https://i2.wp.com/cilaquim.com/wp-content/uploads/2021/11/ecuador.png?resize=75%2C75&amp;ssl=1 75w, https://i2.wp.com/cilaquim.com/wp-content/uploads/2021/11/ecuador.png?w=512&amp;ssl=1 512w" sizes="(max-width: 60px) 100vw, 60px" data-recalc-dims="1" />            
+                        </div>
+            <!-- /image-wrap -->
+        
+        
+        </div>
+    <!-- /module image -->
+	        </div>
+	    	</div>
+		    </div>
+	    <!-- /row_inner -->
+	</div>
+	<!-- /module_row -->
+		<!-- module_row -->
+	<div   class="themify_builder_row module_row clearfix repeat wow bounceIn fullwidth module_row_3 themify_builder_2_row module_row_2-3 tb_dnls439">
+	    	    <div class="row_inner col_align_top" >
+			<div  class="module_column tb-column col4-1 first tb_2_column module_column_0 module_column_2-3-0 tb_eqqv440">
+	    	    	        <div class="tb-column-inner">
+		    <!-- module plain text -->
+<div  class="module module-plain-text tb_vmgb529  ">
+        <div class="tb_text_wrap" >
+	•  Protege sus manos y las de su familia y amigos.    </div>
+</div>
+<!-- /module plain text -->	        </div>
+	    	</div>
+		<div  class="module_column tb-column col4-1 second tb_2_column module_column_1 module_column_2-3-1 tb_y9ou440">
+	    	    	        <div class="tb-column-inner">
+		    <!-- module plain text -->
+<div  class="module module-plain-text tb_kipv251  ">
+        <div class="tb_text_wrap" >
+	•  Contenido de alcohol del 66%.    </div>
+</div>
+<!-- /module plain text -->	        </div>
+	    	</div>
+		<div  class="module_column tb-column col4-1 third tb_2_column module_column_2 module_column_2-3-2 tb_aefi441">
+	    	    	        <div class="tb-column-inner">
+		    <!-- module plain text -->
+<div  class="module module-plain-text tb_3brp347  ">
+        <div class="tb_text_wrap" >
+	•  Contiene aceite de eucalipto.    </div>
+</div>
+<!-- /module plain text -->	        </div>
+	    	</div>
+		<div  class="module_column tb-column col4-1 last tb_2_column module_column_3 module_column_2-3-3 tb_ryrx441">
+	    	    	        <div class="tb-column-inner">
+		    <!-- module plain text -->
+<div  class="module module-plain-text tb_ejs2347  ">
+        <div class="tb_text_wrap" >
+	•  Producto ecuatoriano.    </div>
+</div>
+<!-- /module plain text -->	        </div>
+	    	</div>
+		    </div>
+	    <!-- /row_inner -->
+	</div>
+	<!-- /module_row -->
+		<!-- module_row -->
+	<div   class="themify_builder_row module_row clearfix module_row_4 themify_builder_2_row module_row_2-4 tb_txhy211">
+	    	    <div class="row_inner col_align_top" >
+			<div  class="module_column tb-column col-full first tb_2_column module_column_0 module_column_2-4-0 tb_h21y212">
+	    	    	        <div class="tb-column-inner">
+		            <!-- module fancy heading -->
+    <div  class="module module-fancy-heading tb_o78k134  ">
+	        <h1 class="fancy-heading ">
+        <span  class="main-head">
+            Contactanos        </span>
+        <span class="sub-head">
+                    </span>
+
+        </h1>
+    </div>
+    <!-- /module fancy heading -->
+	        </div>
+	    	</div>
+		    </div>
+	    <!-- /row_inner -->
+	</div>
+	<!-- /module_row -->
+		<!-- module_row -->
+	<div   class="themify_builder_row module_row clearfix repeat module_row_5 themify_builder_2_row module_row_2-5 tb_9h29728">
+	    	    <div class="row_inner col_align_top" >
+			<div  class="module_column tb-column col4-2 first tb_2_column module_column_0 module_column_2-5-0 tb_sey2729">
+	    	    	        <div class="tb-column-inner">
+		    <!-- module plain text -->
+<div  class="module module-plain-text tb_yhsb519  ">
+        <div class="tb_text_wrap" >
+	<div class="wpforms-container wpforms-container-full" id="wpforms-162"><form id="wpforms-form-162" class="wpforms-validate wpforms-form wpforms-ajax-form" data-formid="162" method="post" enctype="multipart/form-data" action="/" data-token="ecb7abf2f7973f2c87ed26249a2eeb6c"><noscript class="wpforms-error-noscript">Por favor, activa JavaScript en tu navegador para completar este formulario.</noscript><div class="wpforms-field-container"><div id="wpforms-162-field_5-container" class="wpforms-field wpforms-field-text" data-field-id="5"><input type="text" id="wpforms-162-field_5" class="wpforms-field-medium wpforms-field-required" name="wpforms[fields][5]" placeholder="Nombre" required></div><div id="wpforms-162-field_2-container" class="wpforms-field wpforms-field-text" data-field-id="2"><input type="text" id="wpforms-162-field_2" class="wpforms-field-medium wpforms-field-required" name="wpforms[fields][2]" placeholder="Correo" required></div><div id="wpforms-162-field_4-container" class="wpforms-field wpforms-field-textarea" data-field-id="4"><textarea id="wpforms-162-field_4" class="wpforms-field-medium wpforms-field-required" name="wpforms[fields][4]" placeholder="Mensaje" required></textarea></div></div><div class="wpforms-submit-container"><input type="hidden" name="wpforms[id]" value="162">			<input
+				type="hidden"
+				name="wpforms[nonce]"
+				value="394b07a510"
+			/>
+			<input type="hidden" name="wpforms[author]" value="1"><input type="hidden" name="wpforms[post_id]" value="2"><button type="submit" name="wpforms[submit]" id="wpforms-submit-162" class="wpforms-submit" data-alt-text="Enviando..." data-submit-text="Enviar" aria-live="assertive" value="wpforms-submit">Enviar</button><img loading="lazy" src="https://cilaquim.com/wp-content/plugins/wpforms-lite/assets/images/submit-spin.svg" class="wpforms-submit-spinner" style="display: none;" width="26" height="26" alt=""></div></form></div>  <!-- .wpforms-container -->    </div>
+</div>
+<!-- /module plain text -->	        </div>
+	    	</div>
+		<div  class="module_column tb-column col4-2 last tb_2_column module_column_1 module_column_2-5-1 tb_n3qd28">
+	    	    	        <div class="tb-column-inner">
+		    <!-- module plain text -->
+<div  class="module module-plain-text tb_6mef385  ">
+        <div class="tb_text_wrap" >
+	CONTACTO<br><br>
+
+Telf: (02)2431485 <br>
+Cel: +(593)987470386<br>
+Correo Electrónico:
+<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="1a7973767b6b6f7377347f796f5a7d777b737634797577">[email&#160;protected]</a><br><br>
+Quito – Ecuador
+    </div>
+</div>
+<!-- /module plain text -->	        </div>
+	    	</div>
+		    </div>
+	    <!-- /row_inner -->
+	</div>
+	<!-- /module_row -->
+	</div>
+
+
+				
+				<span class="edit-button">[<a class="post-edit-link" href="https://cilaquim.com/wp-admin/post.php?post=2&#038;action=edit">Edit</a>]</span>
+				<!-- comments -->
+									
+
+
+								<!-- /comments -->
+
+			</div>
+			<!-- /.post-content -->
+
+			</div><!-- /.type-page -->
+		
+				
+			</div>
+	<!-- /content -->
+    
+	
+	
+
+</div>
+<!-- /layout-container -->
+
+			</div><!-- /body -->
+
+							<div id="footerwrap"   >
+										<footer id="footer" class="pagewidth clearfix" itemscope="itemscope" itemtype="https://schema.org/WPFooter">
+						<div class="back-top clearfix back-top-float back-top-hide"><div class="arrow-up"><a aria-label="Back to top" href="#header"></a></div></div>
+						<div class="main-col first clearfix">
+							<div class="footer-left-wrap first">
+																	<div class="footer-logo-wrapper clearfix">
+										<div id="footer-logo"><a href="https://cilaquim.com" title="CILAQUIM"><span>CILAQUIM</span></a></div>										<!-- /footer-logo -->
+									</div>
+															
+															</div>
+							
+							<div class="footer-right-wrap">
+																	<div class="footer-nav-wrap">
+										<ul id="footer-nav" class="footer-nav menu-name-social-links-menu"><li id="menu-item-38" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-38"><a target="_blank" rel="noopener" href="https://www.facebook.com/Cilaquim-106668234863569">Facebook</a></li>
+<li id="menu-item-39" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-39"><a target="_blank" rel="noopener" href="https://twitter.com/cilquim">Twitter</a></li>
+<li id="menu-item-40" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-40"><a target="_blank" rel="noopener" href="https://www.instagram.com/cilaquim/">Instagram</a></li>
+<li id="menu-item-41" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-41"><a target="_blank" rel="noopener" href="/cdn-cgi/l/email-protection#accfc5c0cdddd9c5c182c9cfd9eccbc1cdc5c082cfc3c1">Email</a></li>
+</ul>									</div>
+									<!-- /.footer-nav-wrap -->
+								
+																	<div class="footer-text clearfix">
+										<div class="footer-text-inner">
+																					</div>
+									</div>
+									<!-- /.footer-text -->
+															</div>
+						</div>
+
+						
+											</footer><!-- /#footer -->
+
+					
+				</div><!-- /#footerwrap -->
+			
+		</div><!-- /#pagewrap -->
+
+		
+		<!-- SCHEMA BEGIN --><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="application/ld+json">[{"@context":"https:\/\/schema.org","@type":"WebSite","url":"http:\/\/cilaquim.com\/","potentialAction":{"@type":"SearchAction","target":"http:\/\/cilaquim.com\/?&s={search_term_string}","query-input":"required name=search_term_string"}},{"@context":"https:\/\/schema.org","@type":"WebPage","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/cilaquim.com\/"},"headline":"","datePublished":"2021-03-28T00:08:21-05:00","dateModified":"2021-03-28T00:08:21-05:00","description":""}]</script><!-- /SCHEMA END -->		<!-- wp_footer -->
+		
+
+<script>
+				( function() {
+					function wpforms_js_error_loading() {
+
+						if ( typeof window.wpforms !== 'undefined' ) {
+							return;
+						}
+
+						var forms = document.querySelectorAll( '.wpforms-form' );
+
+						if ( ! forms.length ) {
+							return;
+						}
+
+						var error = document.createElement( 'div' );
+
+						error.classList.add( 'wpforms-error-container' );
+						error.innerHTML = '¡Atención! WPForms ha detectado un problema con JavaScript en esta página. Se necesita JavaScript para que este formulario funcione correctamente, por lo que puede no funcionar como se espera. Consulta nuestra <a href="https://wpforms.com/docs/getting-support-wpforms/" target="_blank" rel="noopener noreferrer">guía de diagnóstico</a> para aprender más o contacta con el soporte.<p>Este mensaje solo se muestra a los administradores del sitio.</p>';
+
+						forms.forEach( function( form ) {
+
+							if ( ! form.querySelector( '.wpforms-error-container' ) ) {
+								form.insertBefore( error.cloneNode( true ), form.firstChild );
+							}
+						} );
+					};
+
+					if ( document.readyState === 'loading' ) {
+						document.addEventListener( 'DOMContentLoaded', wpforms_js_error_loading );
+					} else {
+						wpforms_js_error_loading();
+					}
+				}() );
+			</script><div style="display:none;"><div id="wp-tb_lb_hidden_editor-wrap" class="wp-core-ui wp-editor-wrap tmce-active"><link rel='stylesheet' id='editor-buttons-css'  href='https://c0.wp.com/c/5.8.2/wp-includes/css/editor.min.css' type='text/css' media='all' />
+<div id="wp-tb_lb_hidden_editor-editor-tools" class="wp-editor-tools hide-if-no-js"><div id="wp-tb_lb_hidden_editor-media-buttons" class="wp-media-buttons"><button type="button" id="insert-media-button" class="button insert-media add_media" data-editor="tb_lb_hidden_editor"><span class="wp-media-buttons-icon"></span> Añadir medios</button></div>
+<div class="wp-editor-tabs"><button type="button" id="tb_lb_hidden_editor-tmce" class="wp-switch-editor switch-tmce" data-wp-editor-id="tb_lb_hidden_editor">Visual</button>
+<button type="button" id="tb_lb_hidden_editor-html" class="wp-switch-editor switch-html" data-wp-editor-id="tb_lb_hidden_editor">HTML</button>
+</div>
+</div>
+<div id="wp-tb_lb_hidden_editor-editor-container" class="wp-editor-container"><div id="qt_tb_lb_hidden_editor_toolbar" class="quicktags-toolbar hide-if-no-js"></div><textarea class="wp-editor-area" rows="20" autocomplete="off" cols="40" name="tb_lb_hidden_editor" id="tb_lb_hidden_editor"> </textarea></div>
+</div>
+
+</div>	<script type="text/javascript">
+		(function () {
+			var c = document.body.className;
+			c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+			document.body.className = c;
+		})();
+	</script>
+	<link rel='stylesheet' id='wpcom-notes-admin-bar-css'  href='https://s0.wp.com/wp-content/mu-plugins/notes/admin-bar-v2.css?ver=10.3-202148' type='text/css' media='all' />
+<link rel='stylesheet' id='noticons-css'  href='https://s0.wp.com/i/noticons/noticons.css?ver=10.3-202148' type='text/css' media='all' />
+<link rel='stylesheet' id='themify-builder-loader-css'  href='https://cilaquim.com/wp-content/themes/themify-ultra/themify/themify-builder/css/themify.builder.loader.min.css?ver=4.9.1' type='text/css' media='all' />
+<link rel='stylesheet' id='buttons-css'  href='https://c0.wp.com/c/5.8.2/wp-includes/css/buttons.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='media-views-css'  href='https://c0.wp.com/c/5.8.2/wp-includes/css/media-views.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='imgareaselect-css'  href='https://c0.wp.com/c/5.8.2/wp-includes/js/imgareaselect/imgareaselect.css' type='text/css' media='all' />
+<link rel='stylesheet' id='thickbox-css'  href='https://c0.wp.com/c/5.8.2/wp-includes/js/thickbox/thickbox.css' type='text/css' media='all' />
+<script type='text/javascript' id='ce4wp_form_submit-js-extra'>
+/* <![CDATA[ */
+var ce4wp_form_submit_data = {"siteUrl":"https:\/\/cilaquim.com","url":"https:\/\/cilaquim.com\/wp-admin\/admin-ajax.php","nonce":"0ffcad1e72","listNonce":"fa149b175f","activatedNonce":"5e4cb108bd"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://cilaquim.com/wp-content/plugins/creative-mail-by-constant-contact/assets/js/block/submit.js?ver=1636480244' id='ce4wp_form_submit-js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.8.2/wp-includes/js/hoverintent-js.min.js' id='hoverintent-js-js'></script>
+<script type='text/javascript' id='admin-bar-js-before'>
+( function() {
+				function wpforms_admin_bar_menu_init() {
+					var template = document.getElementById( 'tmpl-wpforms-admin-menubar-data' ),
+						notifications = document.getElementById( 'wp-admin-bar-wpforms-notifications' );
+
+					if ( ! template ) {
+						return;
+					}
+
+					if ( ! notifications ) {
+						var menu = document.getElementById( 'wp-admin-bar-wpforms-menu-default' );
+
+						if ( ! menu ) {
+							return;
+						}
+
+						menu.insertAdjacentHTML( 'afterBegin', template.innerHTML );
+					} else {
+						notifications.insertAdjacentHTML( 'afterend', template.innerHTML );
+					}
+				};
+				document.addEventListener( 'DOMContentLoaded', wpforms_admin_bar_menu_init );
+			}() );
+</script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.8.2/wp-includes/js/admin-bar.min.js' id='admin-bar-js'></script>
+<script type='text/javascript' id='themify-main-script-js-extra'>
+/* <![CDATA[ */
+var themify_vars = {"version":"4.9.1","url":"https:\/\/cilaquim.com\/wp-content\/themes\/themify-ultra\/themify","wp":"5.8.2","map_key":null,"bing_map_key":null,"includesURL":"https:\/\/cilaquim.com\/wp-includes\/","isCached":null,"commentUrl":"","minify":{"css":{"themify-icons":1,"lightbox":1,"main":1,"themify-builder-style":1},"js":{"backstretch.themify-version":1,"bigvideo":1,"themify.dropdown":1,"themify.mega-menu":1,"themify.builder.script":1,"themify.scroll-highlight":1,"themify-youtube-bg":1,"themify-ticks":1}},"media":{"css":{"wp-mediaelement":{"src":"https:\/\/cilaquim.com\/wp-includes\/js\/mediaelement\/wp-mediaelement.min.css","v":false},"mediaelement":{"src":"https:\/\/cilaquim.com\/wp-includes\/js\/mediaelement\/mediaelementplayer-legacy.min.css","v":"4.2.16"}},"_wpmejsSettings":"var _wpmejsSettings = {\"pluginPath\":\"\\\/wp-includes\\\/js\\\/mediaelement\\\/\",\"classPrefix\":\"mejs-\",\"stretching\":\"responsive\"};","js":{"mediaelement-core":{"src":"https:\/\/cilaquim.com\/wp-includes\/js\/mediaelement\/mediaelement-and-player.min.js","v":"4.2.16","extra":{"before":[false,"var mejsL10n = {\"language\":\"es\",\"strings\":{\"mejs.download-file\":\"Descargar archivo\",\"mejs.install-flash\":\"Est\\u00e1s usando un navegador que no tiene Flash activo o instalado. Por favor, activa el componente del reproductor Flash o descarga la \\u00faltima versi\\u00f3n desde https:\\\/\\\/get.adobe.com\\\/flashplayer\\\/\",\"mejs.fullscreen\":\"Pantalla completa\",\"mejs.play\":\"Reproducir\",\"mejs.pause\":\"Pausa\",\"mejs.time-slider\":\"Control de tiempo\",\"mejs.time-help-text\":\"Usa las teclas de direcci\\u00f3n izquierda\\\/derecha para avanzar un segundo y las flechas arriba\\\/abajo para avanzar diez segundos.\",\"mejs.live-broadcast\":\"Transmisi\\u00f3n en vivo\",\"mejs.volume-help-text\":\"Utiliza las teclas de flecha arriba\\\/abajo para aumentar o disminuir el volumen.\",\"mejs.unmute\":\"Activar el sonido\",\"mejs.mute\":\"Silenciar\",\"mejs.volume-slider\":\"Control de volumen\",\"mejs.video-player\":\"Reproductor de v\\u00eddeo\",\"mejs.audio-player\":\"Reproductor de audio\",\"mejs.captions-subtitles\":\"Pies de foto \\\/ Subt\\u00edtulos\",\"mejs.captions-chapters\":\"Cap\\u00edtulos\",\"mejs.none\":\"Ninguna\",\"mejs.afrikaans\":\"Afrik\\u00e1ans\",\"mejs.albanian\":\"Albano\",\"mejs.arabic\":\"\\u00c1rabe\",\"mejs.belarusian\":\"Bielorruso\",\"mejs.bulgarian\":\"B\\u00falgaro\",\"mejs.catalan\":\"Catal\\u00e1n\",\"mejs.chinese\":\"Chino\",\"mejs.chinese-simplified\":\"Chino (Simplificado)\",\"mejs.chinese-traditional\":\"Chino (Tradicional)\",\"mejs.croatian\":\"Croata\",\"mejs.czech\":\"Checo\",\"mejs.danish\":\"Dan\\u00e9s\",\"mejs.dutch\":\"Holand\\u00e9s\",\"mejs.english\":\"Ingl\\u00e9s\",\"mejs.estonian\":\"Estonio\",\"mejs.filipino\":\"Filipino\",\"mejs.finnish\":\"Fin\\u00e9s\",\"mejs.french\":\"Franc\\u00e9s\",\"mejs.galician\":\"Gallego\",\"mejs.german\":\"Alem\\u00e1n\",\"mejs.greek\":\"Griego\",\"mejs.haitian-creole\":\"Creole haitiano\",\"mejs.hebrew\":\"Hebreo\",\"mejs.hindi\":\"Indio\",\"mejs.hungarian\":\"H\\u00fangaro\",\"mejs.icelandic\":\"Island\\u00e9s\",\"mejs.indonesian\":\"Indonesio\",\"mejs.irish\":\"Irland\\u00e9s\",\"mejs.italian\":\"Italiano\",\"mejs.japanese\":\"Japon\\u00e9s\",\"mejs.korean\":\"Coreano\",\"mejs.latvian\":\"Let\\u00f3n\",\"mejs.lithuanian\":\"Lituano\",\"mejs.macedonian\":\"Macedonio\",\"mejs.malay\":\"Malayo\",\"mejs.maltese\":\"Malt\\u00e9s\",\"mejs.norwegian\":\"Noruego\",\"mejs.persian\":\"Persa\",\"mejs.polish\":\"Polaco\",\"mejs.portuguese\":\"Portugu\\u00e9s\",\"mejs.romanian\":\"Rumano\",\"mejs.russian\":\"Ruso\",\"mejs.serbian\":\"Serbio\",\"mejs.slovak\":\"Eslovaco\",\"mejs.slovenian\":\"Esloveno\",\"mejs.spanish\":\"Espa\\u00f1ol\",\"mejs.swahili\":\"Swahili\",\"mejs.swedish\":\"Sueco\",\"mejs.tagalog\":\"Tagalo\",\"mejs.thai\":\"Tailand\\u00e9s\",\"mejs.turkish\":\"Turco\",\"mejs.ukrainian\":\"Ukraniano\",\"mejs.vietnamese\":\"Vietnamita\",\"mejs.welsh\":\"Gal\\u00e9s\",\"mejs.yiddish\":\"Yiddish\"}};"]}},"mediaelement-migrate":{"src":"https:\/\/cilaquim.com\/wp-includes\/js\/mediaelement\/mediaelement-migrate.min.js","v":false,"extra":""}}},"scrollTo":null};
+var tbLocalScript = {"ajaxurl":"https:\/\/cilaquim.com\/wp-admin\/admin-ajax.php","isAnimationActive":"1","isParallaxActive":"1","isScrollEffectActive":"1","isStickyScrollActive":"1","animationInviewSelectors":[".module.wow",".module_row.wow",".builder-posts-wrap > .post.wow"],"backgroundSlider":{"autoplay":5000},"animationOffset":"100","videoPoster":"https:\/\/cilaquim.com\/wp-content\/themes\/themify-ultra\/themify\/themify-builder\/img\/blank.png","backgroundVideoLoop":"yes","builder_url":"https:\/\/cilaquim.com\/wp-content\/themes\/themify-ultra\/themify\/themify-builder","framework_url":"https:\/\/cilaquim.com\/wp-content\/themes\/themify-ultra\/themify","version":"4.9.1","fullwidth_support":"","fullwidth_container":"body","loadScrollHighlight":"1","addons":[],"breakpoints":{"tablet_landscape":[769,"1280"],"tablet":[681,"768"],"mobile":"680"},"ticks":{"tick":30,"ajaxurl":"https:\/\/cilaquim.com\/wp-admin\/admin-ajax.php","postID":2},"cf_api_url":"https:\/\/cilaquim.com\/?tb_load_cf=","emailSub":"Check this out!"};
+var themifyScript = {"lightbox":{"lightboxSelector":".themify_lightbox","lightboxOn":true,"lightboxContentImages":false,"lightboxContentImagesSelector":"","theme":"pp_default","social_tools":false,"allow_resize":true,"show_title":false,"overlay_gallery":false,"screenWidthNoLightbox":600,"deeplinking":false,"contentImagesAreas":"","gallerySelector":".gallery-icon > a","lightboxGalleryOn":true},"lightboxContext":"body"};
+var tbScrollHighlight = {"fixedHeaderSelector":"#headerwrap.fixed-header","speed":"900","navigation":"#main-nav, .module-menu .ui.nav","scrollOffset":"-5","scroll":"internal"};
+/* ]]> */
+</script>
+<script type='text/javascript' defer="defer" src='https://cilaquim.com/wp-content/themes/themify-ultra/themify/js/main.min.js?ver=4.9.1' id='themify-main-script-js'></script>
+<script type='text/javascript' src='https://c0.wp.com/p/jetpack/10.3/_inc/build/photon/photon.min.js' id='jetpack-photon-js'></script>
+<script type='text/javascript' src='https://c0.wp.com/p/woocommerce/5.1.0/assets/js/jquery-blockui/jquery.blockUI.min.js' id='jquery-blockui-js'></script>
+<script type='text/javascript' id='wc-add-to-cart-js-extra'>
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"Ver carrito","cart_url":"https:\/\/cilaquim.com\/cart\/","is_cart":"","cart_redirect_after_add":"no","option_ajax_add_to_cart":"yes"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://c0.wp.com/p/woocommerce/5.1.0/assets/js/frontend/add-to-cart.min.js' id='wc-add-to-cart-js'></script>
+<script type='text/javascript' src='https://c0.wp.com/p/woocommerce/5.1.0/assets/js/js-cookie/js.cookie.min.js' id='js-cookie-js'></script>
+<script type='text/javascript' id='woocommerce-js-extra'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","option_ajax_add_to_cart":"yes"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://c0.wp.com/p/woocommerce/5.1.0/assets/js/frontend/woocommerce.min.js' id='woocommerce-js'></script>
+<script type='text/javascript' id='wc-cart-fragments-js-extra'>
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_ed0bcf520e04ae11413f5ef6bf315c9d","fragment_name":"wc_fragments_ed0bcf520e04ae11413f5ef6bf315c9d","request_timeout":"5000","option_ajax_add_to_cart":"yes"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://c0.wp.com/p/woocommerce/5.1.0/assets/js/frontend/cart-fragments.min.js' id='wc-cart-fragments-js'></script>
+<script type='text/javascript' id='wc-cart-fragments-js-after'>
+		jQuery( 'body' ).bind( 'wc_fragments_refreshed', function() {
+			var jetpackLazyImagesLoadEvent;
+			try {
+				jetpackLazyImagesLoadEvent = new Event( 'jetpack-lazy-images-load', {
+					bubbles: true,
+					cancelable: true
+				} );
+			} catch ( e ) {
+				jetpackLazyImagesLoadEvent = document.createEvent( 'Event' )
+				jetpackLazyImagesLoadEvent.initEvent( 'jetpack-lazy-images-load', true, true );
+			}
+			jQuery( 'body' ).get( 0 ).dispatchEvent( jetpackLazyImagesLoadEvent );
+		} );
+		
+</script>
+<script type='text/javascript' id='jetpack-scan-show-notice-js-extra'>
+/* <![CDATA[ */
+var Jetpack_Scan = {"nonce":"57817d522c","scan_endpoint":"https:\/\/cilaquim.com\/wp-json\/jetpack\/v4\/scan","scan_dashboard_url":"https:\/\/jetpack.com\/redirect\/?source=calypso-scanner&site=cilaquim.com","singular":"<svg width=\"18\" height=\"22\" viewBox=\"0 0 18 22\" fill=\"none\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\"><path d=\"M9 0L0 4V10C0 15.55 3.84 20.74 9 22C14.16 20.74 18 15.55 18 10V4L9 0Z\" fill=\"#D63638\"\/><path d=\"M7.99121 6.00894H10.0085V11.9968H7.99121V6.00894Z\" fill=\"#FFF\"\/><path d=\"M7.99121 14.014H10.0085V15.9911H7.99121V14.014Z\" fill=\"#FFF\"\/><\/svg> amenaza encontrada","multiple":"<svg width=\"18\" height=\"22\" viewBox=\"0 0 18 22\" fill=\"none\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\"><path d=\"M9 0L0 4V10C0 15.55 3.84 20.74 9 22C14.16 20.74 18 15.55 18 10V4L9 0Z\" fill=\"#D63638\"\/><path d=\"M7.99121 6.00894H10.0085V11.9968H7.99121V6.00894Z\" fill=\"#FFF\"\/><path d=\"M7.99121 14.014H10.0085V15.9911H7.99121V14.014Z\" fill=\"#FFF\"\/><\/svg> amenazas encontradas"};
+/* ]]> */
+</script>
+<script defer type='text/javascript' src='https://c0.wp.com/p/jetpack/10.3/_inc/build/scan/admin-bar-notice.min.js' id='jetpack-scan-show-notice-js'></script>
+<script type='text/javascript' defer="defer" src='https://cilaquim.com/wp-content/themes/themify-ultra/themify/js/themify.sidemenu.min.js?ver=2.8.2' id='slide-nav-js'></script>
+<script type='text/javascript' id='theme-script-js-extra'>
+/* <![CDATA[ */
+var themifyScript = {"themeURI":"https:\/\/cilaquim.com\/wp-content\/themes\/themify-ultra","lightbox":{"lightboxSelector":".themify_lightbox","lightboxOn":true,"lightboxContentImages":false,"lightboxContentImagesSelector":"","theme":"pp_default","social_tools":false,"allow_resize":true,"show_title":false,"overlay_gallery":false,"screenWidthNoLightbox":600,"deeplinking":false,"contentImagesAreas":"","gallerySelector":".gallery-icon > a","lightboxGalleryOn":true},"fixedHeader":"fixed-header","sticky_header":"","ajax_nonce":"55efe6965b","ajax_url":"https:\/\/cilaquim.com\/wp-admin\/admin-ajax.php","parallaxHeader":"1","pageLoaderEffect":"","infiniteEnable":"0","fullPageScroll":"","shop_masonry":"yes","responsiveBreakpoints":{"tablet_landscape":"1280","tablet":"768","mobile":"680"}};
+/* ]]> */
+</script>
+<script type='text/javascript' defer="defer" src='https://cilaquim.com/wp-content/themes/themify-ultra/js/themify.script.min.js?ver=2.8.2' id='theme-script-js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.8.2/wp-includes/js/underscore.min.js' id='underscore-js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.8.2/wp-includes/js/backbone.min.js' id='backbone-js'></script>
+<script type='text/javascript' src='https://s1.wp.com/wp-content/js/mustache.js?ver=10.3-202148' id='mustache-js'></script>
+<script type='text/javascript' src='https://s1.wp.com/wp-content/mu-plugins/notes/notes-common-v2.js?ver=10.3-202148' id='wpcom-notes-common-js'></script>
+<script type='text/javascript' src='https://s0.wp.com/wp-content/mu-plugins/notes/admin-bar-v2.js?ver=10.3-202148' id='wpcom-notes-admin-bar-js'></script>
+<script type='text/javascript' id='themify-builder-loader-js-extra'>
+/* <![CDATA[ */
+var tbLoaderVars = {"styles":["https:\/\/cilaquim.com\/wp-content\/themes\/themify-ultra\/themify\/themify-builder\/css\/combine.min.css","https:\/\/cilaquim.com\/wp-content\/themes\/themify-ultra\/themify\/themify-builder\/css\/toolbar.min.css","","https:\/\/cilaquim.com\/wp-content\/themes\/themify-ultra\/themify\/themify-icons\/themify-icons.min.css","https:\/\/cilaquim.com\/wp-content\/themes\/themify-ultra\/themify\/themify-builder\/css\/animate.min.css","https:\/\/cilaquim.com\/wp-content\/themes\/themify-ultra\/themify\/themify-builder\/css\/themify.combobox.min.css","https:\/\/cilaquim.com\/wp-content\/themes\/themify-ultra\/themify\/themify-icon-picker\/assets\/styles.min.css","https:\/\/cilaquim.com\/wp-content\/themes\/themify-ultra\/themify\/themify-metabox\/css\/jquery.minicolors.min.css"],"turnOnBuilder":"Turn On Builder","editTemplate":"Edit Template","isTouch":"","isGlobalStylePost":""};
+/* ]]> */
+</script>
+<script type='text/javascript' defer="defer" src='https://cilaquim.com/wp-content/themes/themify-ultra/themify/themify-builder/js/themify.builder.loader.min.js?ver=4.9.1' id='themify-builder-loader-js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.8.2/wp-includes/js/shortcode.min.js' id='shortcode-js'></script>
+<script type='text/javascript' id='utils-js-extra'>
+/* <![CDATA[ */
+var userSettings = {"url":"\/","uid":"2","time":"1638333327","secure":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.8.2/wp-includes/js/utils.min.js' id='utils-js'></script>
+<script type='text/javascript' id='wp-util-js-extra'>
+/* <![CDATA[ */
+var _wpUtilSettings = {"ajax":{"url":"\/wp-admin\/admin-ajax.php"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.8.2/wp-includes/js/wp-util.min.js' id='wp-util-js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.8.2/wp-includes/js/wp-backbone.min.js' id='wp-backbone-js'></script>
+<script type='text/javascript' id='media-models-js-extra'>
+/* <![CDATA[ */
+var _wpMediaModelsL10n = {"settings":{"ajaxurl":"\/wp-admin\/admin-ajax.php","post":{"id":0}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.8.2/wp-includes/js/media-models.min.js' id='media-models-js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.8.2/wp-includes/js/plupload/moxie.min.js' id='moxiejs-js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.8.2/wp-includes/js/plupload/plupload.min.js' id='plupload-js'></script>
+<!--[if lt IE 8]>
+<script type='text/javascript' src='https://c0.wp.com/c/5.8.2/wp-includes/js/json2.min.js' id='json2-js'></script>
+<![endif]-->
+<script type='text/javascript' id='wp-plupload-js-extra'>
+/* <![CDATA[ */
+var pluploadL10n = {"queue_limit_exceeded":"Has intentado poner en cola demasiados archivos.","file_exceeds_size_limit":"El tama\u00f1o del archivo %s excede el tama\u00f1o permitido en este sitio.","zero_byte_file":"Este archivo est\u00e1 vac\u00edo. Por favor, prueba con otro.","invalid_filetype":"Lo siento, este tipo de archivo no est\u00e1 permitido por motivos de seguridad.","not_an_image":"Este archivo no es una imagen. Por favor, prueba con otro.","image_memory_exceeded":"Memoria excedida. Por favor, prueba con otro archivo m\u00e1s peque\u00f1o.","image_dimensions_exceeded":"Supera el tama\u00f1o permitido. Por favor, prueba con otro.","default_error":"Ha habido un error en la subida. Por favor, int\u00e9ntalo m\u00e1s tarde.","missing_upload_url":"Ha habido un error de configuraci\u00f3n. Por favor, contacta con el  administrador del servidor.","upload_limit_exceeded":"Solo puedes subir 1 archivo.","http_error":"Respuesta inesperada del servidor. El archivo puede haber sido subido correctamente. Comprueba la biblioteca de medios o recarga la p\u00e1gina.","http_error_image":"El posproceso de la imagen ha fallado probablemente porque el servidor est\u00e1 ocupado o no tiene suficientes recursos. Puede ayudar el subir una imagen m\u00e1s peque\u00f1a. El tama\u00f1o m\u00e1ximo sugerido es de 2500 p\u00edxeles.","upload_failed":"Subida fallida.","big_upload_failed":"Por favor, intenta subir este archivo a trav\u00e9s del %1$snavegador%2$s.","big_upload_queued":"%s excede el tama\u00f1o m\u00e1ximo de subida del cargador de m\u00faltiples archivos del navegador.","io_error":"Error de entrada\/salida.","security_error":"Error de seguridad.","file_cancelled":"Archivo cancelado.","upload_stopped":"Subida detenida.","dismiss":"Descartar","crunching":"Calculando\u2026","deleted":"movidos a la papelera.","error_uploading":"Ha habido un error al subir \u00ab%s\u00bb","unsupported_image":"Esta imagen no se puede mostrar en un navegador web. Antes de subirla, para un mejor resultado, convi\u00e9rtela a JPEG.","noneditable_image":"Esta imagen no puede ser procesada por el servidor web. Antes de subirla, convi\u00e9rtela a JPEG o PNG.","file_url_copied":"La URL del archivo ha sido copiada a tu portapapeles"};
+var _wpPluploadSettings = {"defaults":{"file_data_name":"async-upload","url":"\/wp-admin\/async-upload.php","filters":{"max_file_size":"268435456b","mime_types":[{"extensions":"jpg,jpeg,jpe,gif,png,bmp,tiff,tif,webp,ico,heic,asf,asx,wmv,wmx,wm,avi,divx,flv,mov,qt,mpeg,mpg,mpe,mp4,m4v,ogv,webm,mkv,3gp,3gpp,3g2,3gp2,txt,asc,c,cc,h,srt,csv,tsv,ics,rtx,css,htm,html,vtt,dfxp,mp3,m4a,m4b,aac,ra,ram,wav,ogg,oga,flac,mid,midi,wma,wax,mka,rtf,js,pdf,class,tar,zip,gz,gzip,rar,7z,psd,xcf,doc,pot,pps,ppt,wri,xla,xls,xlt,xlw,mdb,mpp,docx,docm,dotx,dotm,xlsx,xlsm,xlsb,xltx,xltm,xlam,pptx,pptm,ppsx,ppsm,potx,potm,ppam,sldx,sldm,onetoc,onetoc2,onetmp,onepkg,oxps,xps,odt,odp,ods,odg,odc,odb,odf,wp,wpd,key,numbers,pages,svg,svgz,json"}]},"heic_upload_error":true,"multipart_params":{"action":"upload-attachment","_wpnonce":"2425c0b432"}},"browser":{"mobile":false,"supported":true},"limitExceeded":false};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.8.2/wp-includes/js/plupload/wp-plupload.min.js' id='wp-plupload-js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.8.2/wp-includes/js/jquery/ui/core.min.js' id='jquery-ui-core-js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.8.2/wp-includes/js/jquery/ui/mouse.min.js' id='jquery-ui-mouse-js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.8.2/wp-includes/js/jquery/ui/sortable.min.js' id='jquery-ui-sortable-js'></script>
+<script type='text/javascript' id='mediaelement-core-js-before'>
+var mejsL10n = {"language":"es","strings":{"mejs.download-file":"Descargar archivo","mejs.install-flash":"Est\u00e1s usando un navegador que no tiene Flash activo o instalado. Por favor, activa el componente del reproductor Flash o descarga la \u00faltima versi\u00f3n desde https:\/\/get.adobe.com\/flashplayer\/","mejs.fullscreen":"Pantalla completa","mejs.play":"Reproducir","mejs.pause":"Pausa","mejs.time-slider":"Control de tiempo","mejs.time-help-text":"Usa las teclas de direcci\u00f3n izquierda\/derecha para avanzar un segundo y las flechas arriba\/abajo para avanzar diez segundos.","mejs.live-broadcast":"Transmisi\u00f3n en vivo","mejs.volume-help-text":"Utiliza las teclas de flecha arriba\/abajo para aumentar o disminuir el volumen.","mejs.unmute":"Activar el sonido","mejs.mute":"Silenciar","mejs.volume-slider":"Control de volumen","mejs.video-player":"Reproductor de v\u00eddeo","mejs.audio-player":"Reproductor de audio","mejs.captions-subtitles":"Pies de foto \/ Subt\u00edtulos","mejs.captions-chapters":"Cap\u00edtulos","mejs.none":"Ninguna","mejs.afrikaans":"Afrik\u00e1ans","mejs.albanian":"Albano","mejs.arabic":"\u00c1rabe","mejs.belarusian":"Bielorruso","mejs.bulgarian":"B\u00falgaro","mejs.catalan":"Catal\u00e1n","mejs.chinese":"Chino","mejs.chinese-simplified":"Chino (Simplificado)","mejs.chinese-traditional":"Chino (Tradicional)","mejs.croatian":"Croata","mejs.czech":"Checo","mejs.danish":"Dan\u00e9s","mejs.dutch":"Holand\u00e9s","mejs.english":"Ingl\u00e9s","mejs.estonian":"Estonio","mejs.filipino":"Filipino","mejs.finnish":"Fin\u00e9s","mejs.french":"Franc\u00e9s","mejs.galician":"Gallego","mejs.german":"Alem\u00e1n","mejs.greek":"Griego","mejs.haitian-creole":"Creole haitiano","mejs.hebrew":"Hebreo","mejs.hindi":"Indio","mejs.hungarian":"H\u00fangaro","mejs.icelandic":"Island\u00e9s","mejs.indonesian":"Indonesio","mejs.irish":"Irland\u00e9s","mejs.italian":"Italiano","mejs.japanese":"Japon\u00e9s","mejs.korean":"Coreano","mejs.latvian":"Let\u00f3n","mejs.lithuanian":"Lituano","mejs.macedonian":"Macedonio","mejs.malay":"Malayo","mejs.maltese":"Malt\u00e9s","mejs.norwegian":"Noruego","mejs.persian":"Persa","mejs.polish":"Polaco","mejs.portuguese":"Portugu\u00e9s","mejs.romanian":"Rumano","mejs.russian":"Ruso","mejs.serbian":"Serbio","mejs.slovak":"Eslovaco","mejs.slovenian":"Esloveno","mejs.spanish":"Espa\u00f1ol","mejs.swahili":"Swahili","mejs.swedish":"Sueco","mejs.tagalog":"Tagalo","mejs.thai":"Tailand\u00e9s","mejs.turkish":"Turco","mejs.ukrainian":"Ukraniano","mejs.vietnamese":"Vietnamita","mejs.welsh":"Gal\u00e9s","mejs.yiddish":"Yiddish"}};
+</script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.8.2/wp-includes/js/mediaelement/mediaelement-and-player.min.js' id='mediaelement-core-js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.8.2/wp-includes/js/mediaelement/mediaelement-migrate.min.js' id='mediaelement-migrate-js'></script>
+<script type='text/javascript' id='mediaelement-js-extra'>
+/* <![CDATA[ */
+var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/","classPrefix":"mejs-","stretching":"responsive"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.8.2/wp-includes/js/mediaelement/wp-mediaelement.min.js' id='wp-mediaelement-js'></script>
+<script type='text/javascript' id='wp-api-request-js-extra'>
+/* <![CDATA[ */
+var wpApiSettings = {"root":"https:\/\/cilaquim.com\/wp-json\/","nonce":"57817d522c","versionString":"wp\/v2\/"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.8.2/wp-includes/js/api-request.min.js' id='wp-api-request-js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.8.2/wp-includes/js/dist/vendor/regenerator-runtime.min.js' id='regenerator-runtime-js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.8.2/wp-includes/js/dist/vendor/wp-polyfill.min.js' id='wp-polyfill-js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.8.2/wp-includes/js/dist/dom-ready.min.js' id='wp-dom-ready-js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.8.2/wp-includes/js/dist/hooks.min.js' id='wp-hooks-js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.8.2/wp-includes/js/dist/i18n.min.js' id='wp-i18n-js'></script>
+<script type='text/javascript' id='wp-i18n-js-after'>
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+</script>
+<script type='text/javascript' id='wp-a11y-js-translations'>
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "default", {"translation-revision-date":"2021-09-02 02:19:31+0000","generator":"GlotPress\/3.0.0-alpha.2","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=2; plural=n != 1;","lang":"es_EC"},"Notifications":["Avisos"]}},"comment":{"reference":"wp-includes\/js\/dist\/a11y.js"}} );
+</script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.8.2/wp-includes/js/dist/a11y.min.js' id='wp-a11y-js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.8.2/wp-includes/js/clipboard.min.js' id='clipboard-js'></script>
+<script type='text/javascript' id='media-views-js-extra'>
+/* <![CDATA[ */
+var _wpMediaViewsL10n = {"mediaFrameDefaultTitle":"Medios","url":"URL","addMedia":"A\u00f1adir medios","search":"Buscar","select":"Seleccionar","cancel":"Cancelar","update":"Actualizar","replace":"Reemplazar","remove":"Eliminar","back":"Volver","selected":"%d seleccionados","dragInfo":"Arrastra y suelta para reordenar los archivos de medios.","uploadFilesTitle":"Subir archivos","uploadImagesTitle":"Subir im\u00e1genes","mediaLibraryTitle":"Biblioteca de medios","insertMediaTitle":"A\u00f1adir medios","createNewGallery":"Crea una nueva galer\u00eda","createNewPlaylist":"Crear una nueva lista de reproducci\u00f3n","createNewVideoPlaylist":"Crear una nueva lista de reproducci\u00f3n de v\u00eddeo","returnToLibrary":"\u2190 Ir a la biblioteca","allMediaItems":"Todos los medios","allDates":"Todas las fechas","noItemsFound":"No se han encontrado elementos.","insertIntoPost":"Insertar en la entrada","unattached":"Sin adjuntar","mine":"M\u00edos","trash":"Papelera","uploadedToThisPost":"Subido a esta entrada","warnDelete":"Est\u00e1s a punto de borrar permanentemente este elemento de tu sitio.\nEsta acci\u00f3n es irreversible.\n\u00abCancelar\u00bb para parar, \u00abAceptar\u00bb para borrar.","warnBulkDelete":"Est\u00e1s a punto de borrar permanentemente estos elementos de tu sitio.\nEsta acci\u00f3n es irreversible.\n\u00abCancelar\u00bb para parar, \u00abAceptar\u00bb para borrar.","warnBulkTrash":"Est\u00e1s a punto de enviar a la papelera estos elementos.\n  \u00abCancelar\u00bb para parar, \u00abAceptar\u00bb para borrar.","bulkSelect":"Selecci\u00f3n en lotes","trashSelected":"Mover a la papelera","restoreSelected":"Restaurar de la papelera","deletePermanently":"Borrar permanentemente","apply":"Aplicar","filterByDate":"Filtrar por fecha","filterByType":"Filtrar por tipo","searchLabel":"Buscar","searchMediaLabel":"Buscar medios","searchMediaPlaceholder":"Buscar medios...","mediaFound":"N\u00famero de elementos de medios encontrados: %d","noMedia":"No se han encontrado archivos de medios.","noMediaTryNewSearch":"No se han encontrado elementos de medios. Prueba con una b\u00fasqueda diferente.","attachmentDetails":"Detalles del adjunto","insertFromUrlTitle":"Insertar desde una URL","setFeaturedImageTitle":"Imagen destacada","setFeaturedImage":"Establecer la imagen destacada","createGalleryTitle":"Crear una galer\u00eda","editGalleryTitle":"Editar galer\u00eda","cancelGalleryTitle":"\u2190 Cancelar la galer\u00eda","insertGallery":"Insertar galer\u00eda","updateGallery":"Actualizar la galer\u00eda","addToGallery":"A\u00f1adir a la galer\u00eda","addToGalleryTitle":"A\u00f1adir a la galer\u00eda","reverseOrder":"Orden inverso","imageDetailsTitle":"Detalles de la imagen","imageReplaceTitle":"Reemplazar la imagen","imageDetailsCancel":"Cancelar la edici\u00f3n","editImage":"Editar la imagen","chooseImage":"Elige la imagen","selectAndCrop":"Seleccionar y recortar","skipCropping":"Omitir el recorte","cropImage":"Recortar la imagen","cropYourImage":"Recorta tu imagen","cropping":"Recortando\u2026","suggestedDimensions":"Dimensiones de imagen sugeridas: %1$s por %2$s p\u00edxeles.","cropError":"Se ha producido un error recortando la imagen.","audioDetailsTitle":"Detalles del audio","audioReplaceTitle":"Reemplazar el audio","audioAddSourceTitle":"A\u00f1adir el origen del audio","audioDetailsCancel":"Cancelar la edici\u00f3n","videoDetailsTitle":"Detalles del v\u00eddeo","videoReplaceTitle":"Reemplazar el v\u00eddeo","videoAddSourceTitle":"A\u00f1adir el origen del v\u00eddeo","videoDetailsCancel":"Cancelar la edici\u00f3n","videoSelectPosterImageTitle":"Seleccionar la imagen del p\u00f3ster","videoAddTrackTitle":"A\u00f1adir subt\u00edtulos","playlistDragInfo":"Arrastrar y soltar para reordenar las pistas.","createPlaylistTitle":"Crear una lista de reproducci\u00f3n de audio","editPlaylistTitle":"Editar la lista de reproducci\u00f3n de audio","cancelPlaylistTitle":"\u2190 Cancelar la lista de reproducci\u00f3n de audio","insertPlaylist":"Insertar la lista de reproducci\u00f3n de audio","updatePlaylist":"Actualizar la lista de reproducci\u00f3n de audio","addToPlaylist":"A\u00f1adir a la lista de reproducci\u00f3n de audio","addToPlaylistTitle":"A\u00f1adir a la lista de reproducci\u00f3n de audio","videoPlaylistDragInfo":"Arrastrar y soltar para reordenar los v\u00eddeos.","createVideoPlaylistTitle":"Crear una lista de reproducci\u00f3n de v\u00eddeo","editVideoPlaylistTitle":"Editar la lista de reproducci\u00f3n de v\u00eddeo","cancelVideoPlaylistTitle":"\u2190 Cancelar la lista de reproducci\u00f3n de v\u00eddeo","insertVideoPlaylist":"Insertar la lista de reproducci\u00f3n de v\u00eddeo","updateVideoPlaylist":"Actualizar la lista de reproducci\u00f3n de v\u00eddeo","addToVideoPlaylist":"A\u00f1adir a lista de reproducci\u00f3n de v\u00eddeo","addToVideoPlaylistTitle":"A\u00f1adir a lista de reproducci\u00f3n de v\u00eddeo","filterAttachments":"Filtrar los medios","attachmentsList":"Lista de medios","settings":{"tabs":[],"tabUrl":"https:\/\/cilaquim.com\/wp-admin\/media-upload.php?chromeless=1","mimeTypes":{"image":"Im\u00e1genes","audio":"Audio","video":"V\u00eddeo","application\/msword,application\/vnd.openxmlformats-officedocument.wordprocessingml.document,application\/vnd.ms-word.document.macroEnabled.12,application\/vnd.ms-word.template.macroEnabled.12,application\/vnd.oasis.opendocument.text,application\/vnd.apple.pages,application\/pdf,application\/vnd.ms-xpsdocument,application\/oxps,application\/rtf,application\/wordperfect,application\/octet-stream":"Documentos","application\/vnd.apple.numbers,application\/vnd.oasis.opendocument.spreadsheet,application\/vnd.ms-excel,application\/vnd.openxmlformats-officedocument.spreadsheetml.sheet,application\/vnd.ms-excel.sheet.macroEnabled.12,application\/vnd.ms-excel.sheet.binary.macroEnabled.12":"Hojas de c\u00e1lculo","application\/x-gzip,application\/rar,application\/x-tar,application\/zip,application\/x-7z-compressed":"Archivos"},"captions":true,"nonce":{"sendToEditor":"363bb9f251"},"post":{"id":0},"defaultProps":{"link":"none","align":"","size":""},"attachmentCounts":{"audio":1,"video":1},"oEmbedProxyUrl":"https:\/\/cilaquim.com\/wp-json\/oembed\/1.0\/proxy","embedExts":["mp3","ogg","flac","m4a","wav","mp4","m4v","webm","ogv","flv"],"embedMimes":{"mp3":"audio\/mpeg","ogg":"audio\/ogg","flac":"audio\/flac","m4a":"audio\/mpeg","wav":"audio\/wav","mp4":"video\/mp4","m4v":"video\/mp4","webm":"video\/webm","ogv":"video\/ogg","flv":"video\/x-flv"},"contentWidth":1165,"months":[{"year":"2021","month":"11","text":"noviembre 2021"},{"year":"2021","month":"6","text":"junio 2021"},{"year":"2021","month":"4","text":"abril 2021"},{"year":"2021","month":"3","text":"marzo 2021"}],"mediaTrash":0,"infiniteScrolling":0}};
+/* ]]> */
+</script>
+<script type='text/javascript' id='media-views-js-translations'>
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "default", {"translation-revision-date":"2021-09-02 02:19:31+0000","generator":"GlotPress\/3.0.0-alpha.2","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=2; plural=n != 1;","lang":"es_EC"},"Showing %1$s of %2$s media items":["Mostrando %1$s de %2$s elementos de medios"],"Jump to first loaded item":["Saltar al primer elemento cargado"],"Load more":["Cargar m\u00e1s"],"Number of media items displayed: %d. Click load more for more results.":["N\u00famero de elementos de medios mostrados: %d. Haz clic para cargar m\u00e1s resultados."],"The file URL has been copied to your clipboard":["La URL del archivo ha sido copiada a tu portapapeles"],"%s item selected":["%s elemento seleccionado","%s elementos seleccionados"],"Number of media items displayed: %d. Scroll the page for more results.":["N\u00famero de elementos de medios mostrados: %d. Haz scroll en la p\u00e1gina para ver m\u00e1s resultados."]}},"comment":{"reference":"wp-includes\/js\/media-views.js"}} );
+</script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.8.2/wp-includes/js/media-views.min.js' id='media-views-js'></script>
+<script type='text/javascript' id='media-editor-js-translations'>
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "default", {"translation-revision-date":"2021-09-02 02:19:31+0000","generator":"GlotPress\/3.0.0-alpha.2","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=2; plural=n != 1;","lang":"es_EC"},"Could not set that as the thumbnail image. Try a different attachment.":["No se ha podido establecer como imagen de miniatura. Prueba con otro adjunto."]}},"comment":{"reference":"wp-includes\/js\/media-editor.js"}} );
+</script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.8.2/wp-includes/js/media-editor.min.js' id='media-editor-js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.8.2/wp-includes/js/media-audiovideo.min.js' id='media-audiovideo-js'></script>
+<script type='text/javascript' src='https://cilaquim.com/wp-content/plugins/wpforms-lite/assets/js/jquery.validate.min.js?ver=1.19.3' id='wpforms-validation-js'></script>
+<script type='text/javascript' src='https://cilaquim.com/wp-content/plugins/wpforms-lite/assets/js/wpforms.js?ver=1.7.1.2' id='wpforms-js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.8.2/wp-admin/js/editor.min.js' id='editor-js'></script>
+<script type='text/javascript' id='editor-js-after'>
+window.wp.oldEditor = window.wp.editor;
+</script>
+<script type='text/javascript' id='quicktags-js-extra'>
+/* <![CDATA[ */
+var quicktagsL10n = {"closeAllOpenTags":"Cerrar todas las etiquetas abiertas","closeTags":"cerrar las etiquetas","enterURL":"Introduce la URL","enterImageURL":"Introduce la URL de la imagen","enterImageDescription":"Introduce una descripci\u00f3n de la imagen","textdirection":"Direcci\u00f3n del texto","toggleTextdirection":"Cambiar la direcci\u00f3n del editor de texto","dfw":"Modo de escritura sin distracci\u00f3n","strong":"Negrita","strongClose":"Cerrar la etiqueta de negrita","em":"Cursiva","emClose":"Cerrar la etiqueta de it\u00e1lica","link":"Insertar un enlace","blockquote":"Cita","blockquoteClose":"Cerrar la etiqueta de cita","del":"Texto eliminado (tachado)","delClose":"Cerrar la etiqueta de texto borrado","ins":"Texto insertado","insClose":"Cerrar la etiqueta de insertar texto","image":"Insertar una imagen","ul":"Lista con vi\u00f1etas","ulClose":"Cerrar la etiqueta de lista no ordenada","ol":"Lista numerada","olClose":"Cerrar la etiqueta de lista numerada","li":"Elemento de la lista","liClose":"Cerrar la etiqueta de elemento de la lista","code":"C\u00f3digo","codeClose":"Cerrar la etiqueta de c\u00f3digo","more":"Insertar la etiqueta \u00abLeer m\u00e1s\u00bb"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.8.2/wp-includes/js/quicktags.min.js' id='quicktags-js'></script>
+<script type='text/javascript' id='wplink-js-extra'>
+/* <![CDATA[ */
+var wpLinkL10n = {"title":"Insertar\/editar un enlace","update":"Actualizar","save":"A\u00f1adir un enlace","noTitle":"(sin t\u00edtulo)","noMatchesFound":"No se han encontrado resultados.","linkSelected":"Enlace seleccionado.","linkInserted":"Enlace insertado.","minInputLength":"3"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.8.2/wp-includes/js/wplink.min.js' id='wplink-js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.8.2/wp-includes/js/jquery/ui/menu.min.js' id='jquery-ui-menu-js'></script>
+<script type='text/javascript' id='jquery-ui-autocomplete-js-extra'>
+/* <![CDATA[ */
+var uiAutocompleteL10n = {"noResults":"No se han encontrado resultados.","oneResult":"1 resultado encontrado. Utiliza las teclas de flecha arriba y abajo para navegar.","manyResults":"%d resultados encontrados. Utiliza las teclas arriba y abajo para navegar.","itemSelected":"Elemento seleccionado."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.8.2/wp-includes/js/jquery/ui/autocomplete.min.js' id='jquery-ui-autocomplete-js'></script>
+<script type='text/javascript' id='thickbox-js-extra'>
+/* <![CDATA[ */
+var thickboxL10n = {"next":"Siguiente >","prev":"< Anterior","image":"Imagen","of":"de","close":"Cerrar","noiframes":"Esta funci\u00f3n necesita frames integrados. Tienes los iframes desactivados o tu navegador no es compatible.","loadingAnimation":"https:\/\/cilaquim.com\/wp-includes\/js\/thickbox\/loadingAnimation.gif"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.8.2/wp-includes/js/thickbox/thickbox.js' id='thickbox-js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.8.2/wp-admin/js/media-upload.min.js' id='media-upload-js'></script>
+
+		<script type="text/javascript">
+		tinyMCEPreInit = {
+			baseURL: "https://cilaquim.com/wp-includes/js/tinymce",
+			suffix: ".min",
+						mceInit: {'tb_lb_hidden_editor':{theme:"modern",skin:"lightgray",language:"es",formats:{alignleft: [{selector: "p,h1,h2,h3,h4,h5,h6,td,th,div,ul,ol,li", styles: {textAlign:"left"}},{selector: "img,table,dl.wp-caption", classes: "alignleft"}],aligncenter: [{selector: "p,h1,h2,h3,h4,h5,h6,td,th,div,ul,ol,li", styles: {textAlign:"center"}},{selector: "img,table,dl.wp-caption", classes: "aligncenter"}],alignright: [{selector: "p,h1,h2,h3,h4,h5,h6,td,th,div,ul,ol,li", styles: {textAlign:"right"}},{selector: "img,table,dl.wp-caption", classes: "alignright"}],strikethrough: {inline: "del"}},relative_urls:false,remove_script_host:false,convert_urls:false,browser_spellcheck:true,fix_list_elements:true,entities:"38,amp,60,lt,62,gt",entity_encoding:"raw",keep_styles:false,cache_suffix:"wp-mce-49110-20201110",resize:"vertical",menubar:false,branding:false,preview_styles:"font-family font-size font-weight font-style text-decoration text-transform",end_container_on_empty_block:true,wpeditimage_html5_captions:true,wp_lang_attr:"es",wp_keep_scroll_position:false,wp_shortcut_labels:{"Heading 1":"access1","Heading 2":"access2","Heading 3":"access3","Heading 4":"access4","Heading 5":"access5","Heading 6":"access6","Paragraph":"access7","Blockquote":"accessQ","Underline":"metaU","Strikethrough":"accessD","Bold":"metaB","Italic":"metaI","Code":"accessX","Align center":"accessC","Align right":"accessR","Align left":"accessL","Justify":"accessJ","Cut":"metaX","Copy":"metaC","Paste":"metaV","Select all":"metaA","Undo":"metaZ","Redo":"metaY","Bullet list":"accessU","Numbered list":"accessO","Insert\/edit image":"accessM","Insert\/edit link":"metaK","Remove link":"accessS","Toolbar Toggle":"accessZ","Insert Read More tag":"accessT","Insert Page Break tag":"accessP","Distraction-free writing mode":"accessW","Add Media":"accessM","Keyboard Shortcuts":"accessH"},content_css:"https://cilaquim.com/wp-includes/css/dashicons.min.css?ver=5.8.2,https://cilaquim.com/wp-includes/js/tinymce/skins/wordpress/wp-content.css?ver=5.8.2",plugins:"charmap,colorpicker,hr,lists,media,paste,tabfocus,textcolor,fullscreen,wordpress,wpautoresize,wpeditimage,wpemoji,wpgallery,wplink,wpdialogs,wptextpattern,wpview",selector:"#tb_lb_hidden_editor",wpautop:false,indent:true,toolbar1:"formatselect,bold,italic,bullist,numlist,blockquote,alignleft,aligncenter,alignright,link,wp_more,spellchecker,fullscreen,wp_adv",toolbar2:"strikethrough,hr,forecolor,pastetext,removeformat,charmap,outdent,indent,undo,redo,wp_help",toolbar3:"",toolbar4:"",tabfocus_elements:":prev,:next",body_class:"tb_lb_hidden_editor post-type-page post-status-publish page-template-default locale-es-es"}},
+			qtInit: {'tb_lb_hidden_editor':{id:"tb_lb_hidden_editor",buttons:"strong,em,link,block,del,ins,img,ul,ol,li,code,more,close"}},
+			ref: {plugins:"charmap,colorpicker,hr,lists,media,paste,tabfocus,textcolor,fullscreen,wordpress,wpautoresize,wpeditimage,wpemoji,wpgallery,wplink,wpdialogs,wptextpattern,wpview",theme:"modern",language:"es"},
+			load_ext: function(url,lang){var sl=tinymce.ScriptLoader;sl.markDone(url+'/langs/'+lang+'.js');sl.markDone(url+'/langs/'+lang+'_dlg.js');}
+		};
+		</script>
+		<script type='text/javascript' src='https://c0.wp.com/c/5.8.2/wp-includes/js/tinymce/tinymce.min.js' id='wp-tinymce-root-js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.8.2/wp-includes/js/tinymce/plugins/compat3x/plugin.min.js' id='wp-tinymce-js'></script>
+<script type='text/javascript'>
+tinymce.addI18n( 'es', {"New document":"Nuevo documento","Formats":"Formatos","Headings":"Encabezamientos","Heading 1":"T\u00edtulo 1","Heading 2":"T\u00edtulo 2","Heading 3":"T\u00edtulo 3","Heading 4":"T\u00edtulo 4","Heading 5":"T\u00edtulo 5","Heading 6":"T\u00edtulo 6","Blocks":"Bloques","Paragraph":"P\u00e1rrafo","Blockquote":"Cita","Preformatted":"Preformateado","Address":"Direcci\u00f3n","Inline":"Integrado","Underline":"Subrayado","Strikethrough":"Tachado","Subscript":"Sub\u00edndice","Superscript":"Super\u00edndice","Clear formatting":"Borrar los formatos","Bold":"Negrita","Italic":"Cursiva","Code":"C\u00f3digo","Source code":"C\u00f3digo fuente","Font Family":"Familia de fuente","Font Sizes":"Tama\u00f1os de fuente","Align center":"Alineaci\u00f3n centrada","Align right":"Alineaci\u00f3n derecha","Align left":"Alineaci\u00f3n izquierda","Justify":"Justificar","Increase indent":"Aumentar la sangr\u00eda","Decrease indent":"Reducir la sangr\u00eda","Cut":"Cortar","Copy":"Copiar","Paste":"Pegar","Select all":"Seleccionar todo","Undo":"Deshacer","Redo":"Rehacer","Ok":"Aceptar","Cancel":"Cancelar","Close":"Cerrar","Visual aids":"Ayudas visuales","Bullet list":"Lista con vi\u00f1etas","Numbered list":"Lista numerada","Square":"Cuadrada","Default":"Por defecto","Circle":"C\u00edrculo","Disc":"Disco","Lower Greek":"Griega min\u00fascula","Lower Alpha":"Alfa min\u00fascula","Upper Alpha":"Alfa may\u00fascula","Upper Roman":"Romana may\u00fascula","Lower Roman":"Romana min\u00fascula","Name":"Nombre","Anchor":"Texto de enlace","Anchors":"Textos de enlace","Id should start with a letter, followed only by letters, numbers, dashes, dots, colons or underscores.":"El ID debe empezar con una letra, seguida solo por letras, n\u00fameros, barras, puntos, guiones y guiones bajos.","Id":"ID","Document properties":"Propiedades del documento","Title":"T\u00edtulo","Keywords":"Palabras clave","Encoding":"Codificaci\u00f3n","Description":"Descripci\u00f3n","Author":"Autor","Image":"Imagen","Insert\/edit image":"Insertar\/editar una imagen","General":"Generales","Advanced":"Avanzado","Source":"Fuente","Border":"Borde","Constrain proportions":"Mantener las proporciones","Vertical space":"Espacio vertical","Image description":"Descripci\u00f3n de la imagen","Style":"Estilo","Dimensions":"Dimensiones","Insert image":"Insertar una imagen","Date\/time":"Fecha\/hora","Insert date\/time":"Insertar fecha\/hora","Table of Contents":"Tabla de contenidos","Insert\/Edit code sample":"Insertar\/editar c\u00f3digo de ejemplo","Language":"Idioma","Media":"Medios","Insert\/edit media":"Insertar\/editar medios","Poster":"P\u00f3ster","Alternative source":"Fuente alternativa","Paste your embed code below:":"Pega tu c\u00f3digo de inserci\u00f3n a continuaci\u00f3n:","Insert video":"Insertar v\u00eddeo","Embed":"Incrustado","Special character":"Caracter especial","Right to left":"De derecha a izquierda","Left to right":"De izquierda a derecha","Emoticons":"Emoticonos","Nonbreaking space":"Espacio sin salto","Page break":"Salto de p\u00e1gina","Paste as text":"Pegar como texto","Preview":"Vista previa","Print":"Imprimir","Save":"Guardar","Fullscreen":"Pantalla completa","Horizontal line":"L\u00ednea horizontal","Horizontal space":"Espacio horizontal","Restore last draft":"Restaurar el \u00faltimo borrador","Insert\/edit link":"Insertar\/editar un enlace","Remove link":"Eliminar el enlace","Link":"Enlace","Insert link":"Insertar un enlace","Target":"Destino","New window":"Nueva ventana","Text to display":"Texto a mostrar","Url":"URL","The URL you entered seems to be an email address. Do you want to add the required mailto: prefix?":"La URL que has introducido parece ser una direcci\u00f3n de correo electr\u00f3nico. \u00bfQuieres a\u00f1adir el prefijo mailto: necesario?","The URL you entered seems to be an external link. Do you want to add the required http:\/\/ prefix?":"La URL que has introducido parece ser un enlace externo. \u00bfQuieres a\u00f1adir el prefijo http:\/\/ necesario?","Custom color":"Color personalizado","Custom...":"Personalizado...","No color":"Sin color","Could not find the specified string.":"No se ha encontrado la cadena especificada.","Replace":"Reemplazar","Next":"Siguiente","Prev":"Anterior","Whole words":"Palabras completas","Find and replace":"Buscar y reemplazar","Replace with":"Reemplazar con","Find":"Buscar","Replace all":"Reemplazar todo","Match case":"Coincidir may\u00fasculas\/min\u00fasculas","Spellcheck":"Comprobar la ortograf\u00eda","Finish":"Terminar","Ignore all":"Ignorar todo","Ignore":"Ignorar","Add to Dictionary":"A\u00f1adir al diccionario","Insert table":"Insertar tabla","Delete table":"Borrar la tabla","Table properties":"Propiedades de la tabla","Row properties":"Propiedades de la fila","Cell properties":"Propiedades de la celda","Border color":"Color del borde","Row":"Fila","Rows":"Filas","Column":"Columna","Cols":"Columnas","Cell":"Celda","Header cell":"Cabecera de celda","Header":"Cabecera","Body":"Cuerpo","Footer":"Pie de p\u00e1gina","Insert row before":"Insertar una fila encima","Insert row after":"Insertar una fila debajo","Insert column before":"Insertar una columna antes","Insert column after":"Insertar una columna despu\u00e9s","Paste row before":"Pegar la fila encima","Paste row after":"Pegar la fila debajo","Delete row":"Borrar la fila","Delete column":"Eliminar columna","Cut row":"Cortar la fila","Copy row":"Copiar la fila","Merge cells":"Combinar las celdas","Split cell":"Dividir la celda de la tabla","Height":"Altura","Width":"Anchura","Caption":"Leyenda","Alignment":"Alineaci\u00f3n","H Align":"Alineaci\u00f3n horizontal","Left":"Izquierda","Center":"Centrar","Right":"Derecha","None":"Ninguna","V Align":"Alineaci\u00f3n vertical","Top":"Arriba","Middle":"Intermedio","Bottom":"Abajo","Row group":"Grupo de filas","Column group":"Grupo de columnas","Row type":"Tipo de fila","Cell type":"Tipo de celda","Cell padding":"Borde de celda","Cell spacing":"Espacio de celda","Scope":"Extensi\u00f3n","Insert template":"Insertar una plantilla","Templates":"Plantillas","Background color":"Color de fondo","Text color":"Color del texto","Show blocks":"Mostrar los bloques","Show invisible characters":"Mostrar caracteres invisibles","Words: {0}":"Palabras: {0}","Paste is now in plain text mode. Contents will now be pasted as plain text until you toggle this option off.":"El pegado es ahora en modo de texto plano. Los contenidos se pegar\u00e1n como texto plano mientras no desactives esa opci\u00f3n.\n\nSi buscas pegar contenido enriquecido desde Microsoft Word, prueba a desactivar esta opci\u00f3n. El editor limpiar\u00e1 el texto pegado desde Word de forma autom\u00e1tica.","Rich Text Area. Press ALT-F9 for menu. Press ALT-F10 for toolbar. Press ALT-0 for help":"\u00c1rea de texto enriquecido. Pulsa Alt-Shift-H para obtener ayuda.","Rich Text Area. Press Control-Option-H for help.":"\u00c1rea de texto enriquecido. Presiona Control-Option-H para ver la ayuda.","You have unsaved changes are you sure you want to navigate away?":"Los cambios realizados se perder\u00e1n si sales de esta p\u00e1gina.","Your browser doesn't support direct access to the clipboard. Please use the Ctrl+X\/C\/V keyboard shortcuts instead.":"Tu navegador no permite acceso directo al portapapeles. Por favor, usa los atajos del teclado o el men\u00fa de edici\u00f3n de tu navegador.","Insert":"Insertar","File":"Archivo","Edit":"Editar","Tools":"Herramientas","View":"Ver","Table":"Tabla","Format":"Formato","Toolbar Toggle":"M\u00e1s herramientas","Insert Read More tag":"Insertar la etiqueta \u00abLeer m\u00e1s\u00bb","Insert Page Break tag":"Insertar una etiqueta de salto de p\u00e1gina","Read more...":"Leer m\u00e1s...","Distraction-free writing mode":"Modo de escritura sin distracci\u00f3n","No alignment":"Sin alineaci\u00f3n","Remove":"Eliminar","Edit|button":"Editar","Paste URL or type to search":"Pega la URL o teclea para buscar","Apply":"Aplicar","Link options":"Opciones de enlace","Text":"HTML","Add Media":"A\u00f1adir medios","Keyboard Shortcuts":"Atajos de teclado","Classic Block Keyboard Shortcuts":"Atajos de teclado del bloque cl\u00e1sico","Default shortcuts,":"Atajos por defecto,","Additional shortcuts,":"Atajos adicionales,","Focus shortcuts:":"Accesos r\u00e1pidos a focos:","Inline toolbar (when an image, link or preview is selected)":"Barra de herramientas en l\u00ednea (cuando se selecciona una imagen, enlace o vista previa)","Editor menu (when enabled)":"Editor de men\u00fa (cuando est\u00e1 activado)","Editor toolbar":"Barra de herramientas del editor","Elements path":"Ruta de los elementos","Ctrl + Alt + letter:":"Ctrl + Alt + letra:","Shift + Alt + letter:":"May\u00fas + Alt + letra:","Cmd + letter:":"Cmd + letra:","Ctrl + letter:":"Ctrl + letra:","Letter":"Letra","Action":"Acci\u00f3n","Warning: the link has been inserted but may have errors. Please test it.":"Advertencia: el enlace ha sido insertado, pero puede tener errores. Por favor, compru\u00e9balo.","To move focus to other buttons use Tab or the arrow keys. To return focus to the editor press Escape or use one of the buttons.":"Para mover el foco a otros botones utiliza el tabulador o las teclas de flecha. Para devolver el foco al editor pulsa la tecla de escape o utiliza uno de los botones.","When starting a new paragraph with one of these formatting shortcuts followed by a space, the formatting will be applied automatically. Press Backspace or Escape to undo.":"Cuando empiezas un p\u00e1rrafo nuevo con uno de estos atajos de formato, seguidos por un espacio, el formato se aplica autom\u00e1ticamente. Pulsa la tecla Retroceso o Escape para deshacer. ","The following formatting shortcuts are replaced when pressing Enter. Press Escape or the Undo button to undo.":"Los siguientes atajos de formato se sustituyen al pulsar Intro. Pulsa Escape o el bot\u00f3n Deshacer para deshacer los cambios.","The next group of formatting shortcuts are applied as you type or when you insert them around plain text in the same paragraph. Press Escape or the Undo button to undo.":"El siguiente grupo de atajos de formato se aplican mientras escribes o cuando los insertas alrededor de texto plano en el mismo p\u00e1rrafo. Pulsa la tecla Esc o el bot\u00f3n Deshacer para deshacer los cambios."});
+tinymce.ScriptLoader.markDone( 'https://cilaquim.com/wp-includes/js/tinymce/langs/es.js' );
+</script>
+		<script type="text/javascript">
+		var ajaxurl = "/wp-admin/admin-ajax.php";
+		( function() {
+			var initialized = [];
+			var initialize  = function() {
+				var init, id, inPostbox, $wrap;
+				var readyState = document.readyState;
+
+				if ( readyState !== 'complete' && readyState !== 'interactive' ) {
+					return;
+				}
+
+				for ( id in tinyMCEPreInit.mceInit ) {
+					if ( initialized.indexOf( id ) > -1 ) {
+						continue;
+					}
+
+					init      = tinyMCEPreInit.mceInit[id];
+					$wrap     = tinymce.$( '#wp-' + id + '-wrap' );
+					inPostbox = $wrap.parents( '.postbox' ).length > 0;
+
+					if (
+						! init.wp_skip_init &&
+						( $wrap.hasClass( 'tmce-active' ) || ! tinyMCEPreInit.qtInit.hasOwnProperty( id ) ) &&
+						( readyState === 'complete' || ( ! inPostbox && readyState === 'interactive' ) )
+					) {
+						tinymce.init( init );
+						initialized.push( id );
+
+						if ( ! window.wpActiveEditor ) {
+							window.wpActiveEditor = id;
+						}
+					}
+				}
+			}
+
+			if ( typeof tinymce !== 'undefined' ) {
+				if ( tinymce.Env.ie && tinymce.Env.ie < 11 ) {
+					tinymce.$( '.wp-editor-wrap ' ).removeClass( 'tmce-active' ).addClass( 'html-active' );
+				} else {
+					if ( document.readyState === 'complete' ) {
+						initialize();
+					} else {
+						document.addEventListener( 'readystatechange', initialize );
+					}
+				}
+			}
+
+			if ( typeof quicktags !== 'undefined' ) {
+				for ( id in tinyMCEPreInit.qtInit ) {
+					quicktags( tinyMCEPreInit.qtInit[id] );
+
+					if ( ! window.wpActiveEditor ) {
+						window.wpActiveEditor = id;
+					}
+				}
+			}
+		}());
+		</script>
+				<div id="wp-link-backdrop" style="display: none"></div>
+		<div id="wp-link-wrap" class="wp-core-ui" style="display: none" role="dialog" aria-labelledby="link-modal-title">
+		<form id="wp-link" tabindex="-1">
+		<input type="hidden" id="_ajax_linking_nonce" name="_ajax_linking_nonce" value="ba3b547fc4" />		<h1 id="link-modal-title">Insertar/editar un enlace</h1>
+		<button type="button" id="wp-link-close"><span class="screen-reader-text">Cerrar</span></button>
+		<div id="link-selector">
+			<div id="link-options">
+				<p class="howto" id="wplink-enter-url">Introduce la URL de destino</p>
+				<div>
+					<label><span>URL</span>
+					<input id="wp-link-url" type="text" aria-describedby="wplink-enter-url" /></label>
+				</div>
+				<div class="wp-link-text-field">
+					<label><span>Texto del enlace</span>
+					<input id="wp-link-text" type="text" /></label>
+				</div>
+				<div class="link-target">
+					<label><span></span>
+					<input type="checkbox" id="wp-link-target" /> Abrir el enlace en una pestaña nueva</label>
+				</div>
+			</div>
+			<p class="howto" id="wplink-link-existing-content">O enlaza a contenido ya existente</p>
+			<div id="search-panel">
+				<div class="link-search-wrapper">
+					<label>
+						<span class="search-label">Buscar</span>
+						<input type="search" id="wp-link-search" class="link-search-field" autocomplete="off" aria-describedby="wplink-link-existing-content" />
+						<span class="spinner"></span>
+					</label>
+				</div>
+				<div id="search-results" class="query-results" tabindex="0">
+					<ul></ul>
+					<div class="river-waiting">
+						<span class="spinner"></span>
+					</div>
+				</div>
+				<div id="most-recent-results" class="query-results" tabindex="0">
+					<div class="query-notice" id="query-notice-message">
+						<em class="query-notice-default">No se ha especificado ningún término de búsqueda. Mostrando los elementos recientes.</em>
+						<em class="query-notice-hint screen-reader-text">Busca o utiliza las teclas de flecha arriba y abajo para seleccionar un elemento.</em>
+					</div>
+					<ul></ul>
+					<div class="river-waiting">
+						<span class="spinner"></span>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="submitbox">
+			<div id="wp-link-cancel">
+				<button type="button" class="button">Cancelar</button>
+			</div>
+			<div id="wp-link-update">
+				<input type="submit" value="Añadir un enlace" class="button button-primary" id="wp-link-submit" name="wp-link-submit">
+			</div>
+		</div>
+		</form>
+		</div>
+		<script type='text/javascript'>
+/* <![CDATA[ */
+var wpforms_settings = {"val_required":"Este campo es obligatorio.","val_email":"Por favor, introduce una direcci\u00f3n de correo electr\u00f3nico v\u00e1lida.","val_email_suggestion":"\u00bfQuieres decir {suggestion}?","val_email_suggestion_title":"Haz clic para aceptar esta sugerencia.","val_email_restricted":"Esta direcci\u00f3n de correo electr\u00f3nico no est\u00e1 permitida.","val_number":"Por favor, introduce un n\u00famero v\u00e1lido.","val_number_positive":"Por favor, introduce un n\u00famero de tel\u00e9fono v\u00e1lido.","val_confirm":"Los valores del campo no coinciden.","val_checklimit":"Has excedido el n\u00famero de selecciones permitidas: {#}.","val_limit_characters":"{count} de {limit} caracteres m\u00e1ximos.","val_limit_words":"{count} de {limit} palabras m\u00e1ximas.","val_recaptcha_fail_msg":"Ha fallado la verificaci\u00f3n de Google reCAPTCHA, por favor, int\u00e9ntalo de nuevo m\u00e1s tarde.","val_empty_blanks":"Por favor, rellena todos los espacios en blanco.","uuid_cookie":"","locale":"es","wpforms_plugin_url":"https:\/\/cilaquim.com\/wp-content\/plugins\/wpforms-lite\/","gdpr":"","ajaxurl":"https:\/\/cilaquim.com\/wp-admin\/admin-ajax.php","mailcheck_enabled":"1","mailcheck_domains":[],"mailcheck_toplevel_domains":["dev"],"is_ssl":"1"}
+/* ]]> */
+</script>
+
+<script type="text/html" id="tmpl-wpforms-admin-menubar-data">
+	<li id="wp-admin-bar-wpforms-form-id-162" class="menupop wpforms-menu-form wpforms-menu-form-last">
+		<div class="ab-item ab-empty-item" aria-haspopup="true"><span class="wp-admin-bar-arrow" aria-hidden="true"></span>Cilaquim</div>
+		<div class="ab-sub-wrapper">
+			<ul id="wp-admin-bar-wpforms-form-id-162-default" class="ab-submenu">
+							<li id="wp-admin-bar-wpforms-form-id-162-edit">
+					<a class="ab-item" href="https://cilaquim.com/wp-admin/admin.php?page=wpforms-builder&#038;view=fields&#038;form_id=162">Editar formulario</a>
+				</li>
+												</ul>
+		</div>
+	</li>
+</script>
+	</body>
+</html>
